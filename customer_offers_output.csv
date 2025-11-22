@@ -1,0 +1,1001 @@
+CustomerID,Age,Gender,AnnualIncome,TotalSpend,VisitFrequency,LastPurchaseDays,CategoryPreference,Recency,Frequency,Monetary,Cluster,RecommendedOffer
+C0001,56,M,65648,8655,22,78,Beauty,78,22,8655,0,Premium Loyalty Rewards
+C0002,69,M,123537,18852,19,69,Beauty,69,19,18852,1,Discount Coupon (20%)
+C0003,46,M,145991,16769,27,118,Fashion,118,27,16769,2,Win-back Offer (Free Delivery)
+C0004,32,F,29516,248,21,120,Electronics,120,21,248,0,Premium Loyalty Rewards
+C0005,60,M,132863,13495,2,59,Fashion,59,2,13495,1,Discount Coupon (20%)
+C0006,25,M,135005,4995,11,33,Home Decor,33,11,4995,0,Premium Loyalty Rewards
+C0007,38,M,22396,17496,22,62,Fashion,62,22,17496,1,Discount Coupon (20%)
+C0008,56,F,104082,11123,13,50,Groceries,50,13,11123,1,Discount Coupon (20%)
+C0009,36,F,39129,10799,15,112,Groceries,112,15,10799,2,Win-back Offer (Free Delivery)
+C0010,40,M,148322,9815,12,19,Sports,19,12,9815,1,Discount Coupon (20%)
+C0011,28,M,21591,19269,22,123,Groceries,123,22,19269,2,Win-back Offer (Free Delivery)
+C0012,28,M,31303,16263,21,47,Fashion,47,21,16263,1,Discount Coupon (20%)
+C0013,41,M,50561,5882,22,167,Groceries,167,22,5882,0,Premium Loyalty Rewards
+C0014,53,F,91719,18892,11,33,Electronics,33,11,18892,1,Discount Coupon (20%)
+C0015,57,F,138618,16824,7,141,Groceries,141,7,16824,2,Win-back Offer (Free Delivery)
+C0016,41,F,112108,2917,28,84,Home Decor,84,28,2917,0,Premium Loyalty Rewards
+C0017,20,F,148748,15196,5,135,Electronics,135,5,15196,2,Win-back Offer (Free Delivery)
+C0018,39,M,119616,18980,17,79,Sports,79,17,18980,1,Discount Coupon (20%)
+C0019,19,M,144165,5399,24,14,Home Decor,14,24,5399,0,Premium Loyalty Rewards
+C0020,41,M,106231,10017,20,147,Fashion,147,20,10017,2,Win-back Offer (Free Delivery)
+C0021,61,F,27314,18173,9,128,Fashion,128,9,18173,2,Win-back Offer (Free Delivery)
+C0022,47,M,137071,3367,14,54,Fashion,54,14,3367,0,Premium Loyalty Rewards
+C0023,55,F,39623,4506,26,148,Home Decor,148,26,4506,0,Premium Loyalty Rewards
+C0024,19,F,87675,17926,12,29,Home Decor,29,12,17926,1,Discount Coupon (20%)
+C0025,38,M,132992,10482,6,24,Home Decor,24,6,10482,1,Discount Coupon (20%)
+C0026,50,M,116826,4537,17,82,Electronics,82,17,4537,0,Premium Loyalty Rewards
+C0027,29,M,85082,5535,19,63,Beauty,63,19,5535,0,Premium Loyalty Rewards
+C0028,39,F,149839,4207,19,105,Electronics,105,19,4207,0,Premium Loyalty Rewards
+C0029,61,M,103624,660,26,57,Fashion,57,26,660,0,Premium Loyalty Rewards
+C0030,42,F,125228,12429,16,136,Beauty,136,16,12429,2,Win-back Offer (Free Delivery)
+C0031,66,M,53130,1926,12,62,Groceries,62,12,1926,0,Premium Loyalty Rewards
+C0032,44,F,71756,11521,12,157,Fashion,157,12,11521,2,Win-back Offer (Free Delivery)
+C0033,59,F,117624,12365,20,17,Sports,17,20,12365,1,Discount Coupon (20%)
+C0034,45,M,46292,7729,6,66,Electronics,66,6,7729,1,Discount Coupon (20%)
+C0035,33,F,131785,8425,23,6,Home Decor,6,23,8425,1,Discount Coupon (20%)
+C0036,32,F,147331,19622,26,58,Electronics,58,26,19622,1,Discount Coupon (20%)
+C0037,64,M,106206,7793,4,69,Home Decor,69,4,7793,1,Discount Coupon (20%)
+C0038,68,F,89274,8364,6,156,Beauty,156,6,8364,2,Win-back Offer (Free Delivery)
+C0039,61,M,22469,12786,11,62,Sports,62,11,12786,1,Discount Coupon (20%)
+C0040,69,F,73947,13816,1,169,Beauty,169,1,13816,2,Win-back Offer (Free Delivery)
+C0041,20,M,42534,6821,24,82,Sports,82,24,6821,0,Premium Loyalty Rewards
+C0042,54,M,83620,19462,23,169,Electronics,169,23,19462,2,Win-back Offer (Free Delivery)
+C0043,68,F,68874,7473,15,177,Home Decor,177,15,7473,2,Win-back Offer (Free Delivery)
+C0044,24,F,69708,6007,27,177,Beauty,177,27,6007,0,Premium Loyalty Rewards
+C0045,38,F,94553,16227,11,71,Sports,71,11,16227,1,Discount Coupon (20%)
+C0046,26,F,88344,5756,25,131,Fashion,131,25,5756,0,Premium Loyalty Rewards
+C0047,56,F,69138,9084,19,10,Fashion,10,19,9084,1,Discount Coupon (20%)
+C0048,35,M,74302,8386,18,98,Beauty,98,18,8386,0,Premium Loyalty Rewards
+C0049,21,F,67638,6001,17,89,Home Decor,89,17,6001,0,Premium Loyalty Rewards
+C0050,42,M,98249,5017,19,35,Beauty,35,19,5017,0,Premium Loyalty Rewards
+C0051,31,M,125865,8529,21,2,Electronics,2,21,8529,1,Discount Coupon (20%)
+C0052,67,F,22719,14816,14,124,Sports,124,14,14816,2,Win-back Offer (Free Delivery)
+C0053,26,M,42890,15895,27,24,Electronics,24,27,15895,1,Discount Coupon (20%)
+C0054,43,M,97236,11238,18,74,Fashion,74,18,11238,1,Discount Coupon (20%)
+C0055,19,M,56509,2630,28,166,Sports,166,28,2630,0,Premium Loyalty Rewards
+C0056,37,M,62534,18444,19,22,Beauty,22,19,18444,1,Discount Coupon (20%)
+C0057,45,F,122302,17532,15,154,Electronics,154,15,17532,2,Win-back Offer (Free Delivery)
+C0058,64,M,112241,5872,15,171,Groceries,171,15,5872,2,Win-back Offer (Free Delivery)
+C0059,24,F,38787,15576,4,39,Home Decor,39,4,15576,1,Discount Coupon (20%)
+C0060,61,F,146209,19013,7,157,Home Decor,157,7,19013,2,Win-back Offer (Free Delivery)
+C0061,25,M,68845,15851,13,20,Groceries,20,13,15851,1,Discount Coupon (20%)
+C0062,64,F,77932,3064,3,41,Fashion,41,3,3064,0,Premium Loyalty Rewards
+C0063,52,F,112124,7237,16,148,Sports,148,16,7237,2,Win-back Offer (Free Delivery)
+C0064,31,F,111659,17447,9,108,Home Decor,108,9,17447,2,Win-back Offer (Free Delivery)
+C0065,34,M,53062,17020,8,147,Groceries,147,8,17020,2,Win-back Offer (Free Delivery)
+C0066,53,F,95713,13991,20,84,Beauty,84,20,13991,1,Discount Coupon (20%)
+C0067,67,F,107263,7440,13,111,Groceries,111,13,7440,0,Premium Loyalty Rewards
+C0068,57,F,115756,8067,17,66,Fashion,66,17,8067,0,Premium Loyalty Rewards
+C0069,21,M,80461,12515,17,158,Fashion,158,17,12515,2,Win-back Offer (Free Delivery)
+C0070,19,F,95418,11971,17,53,Electronics,53,17,11971,1,Discount Coupon (20%)
+C0071,23,M,86672,12016,1,34,Home Decor,34,1,12016,1,Discount Coupon (20%)
+C0072,59,M,148232,8834,8,150,Electronics,150,8,8834,2,Win-back Offer (Free Delivery)
+C0073,21,M,54832,945,19,67,Groceries,67,19,945,0,Premium Loyalty Rewards
+C0074,46,M,147335,19520,6,134,Sports,134,6,19520,2,Win-back Offer (Free Delivery)
+C0075,35,M,51966,2594,3,27,Sports,27,3,2594,0,Premium Loyalty Rewards
+C0076,43,M,92545,12777,27,10,Fashion,10,27,12777,1,Discount Coupon (20%)
+C0077,61,F,32987,19203,5,73,Sports,73,5,19203,1,Discount Coupon (20%)
+C0078,51,M,57311,18368,13,96,Sports,96,13,18368,1,Discount Coupon (20%)
+C0079,27,F,51575,12430,15,48,Sports,48,15,12430,1,Discount Coupon (20%)
+C0080,53,F,83852,5279,14,70,Groceries,70,14,5279,0,Premium Loyalty Rewards
+C0081,31,M,147650,6710,29,100,Sports,100,29,6710,0,Premium Loyalty Rewards
+C0082,48,F,21007,6530,23,59,Beauty,59,23,6530,0,Premium Loyalty Rewards
+C0083,65,F,90981,7254,16,2,Sports,2,16,7254,1,Discount Coupon (20%)
+C0084,32,F,96242,13928,18,157,Sports,157,18,13928,2,Win-back Offer (Free Delivery)
+C0085,25,F,67517,10245,22,65,Electronics,65,22,10245,1,Discount Coupon (20%)
+C0086,31,M,130022,6588,29,83,Groceries,83,29,6588,0,Premium Loyalty Rewards
+C0087,40,F,49257,3950,22,154,Fashion,154,22,3950,0,Premium Loyalty Rewards
+C0088,57,M,107272,17173,11,10,Electronics,10,11,17173,1,Discount Coupon (20%)
+C0089,38,F,62207,13664,3,53,Home Decor,53,3,13664,1,Discount Coupon (20%)
+C0090,33,F,33281,5178,22,79,Groceries,79,22,5178,0,Premium Loyalty Rewards
+C0091,62,M,81246,12268,10,59,Beauty,59,10,12268,1,Discount Coupon (20%)
+C0092,35,F,21435,5548,10,150,Groceries,150,10,5548,2,Win-back Offer (Free Delivery)
+C0093,64,F,118875,17663,21,179,Home Decor,179,21,17663,2,Win-back Offer (Free Delivery)
+C0094,41,F,120686,9174,16,48,Home Decor,48,16,9174,1,Discount Coupon (20%)
+C0095,43,M,111357,6506,12,149,Home Decor,149,12,6506,2,Win-back Offer (Free Delivery)
+C0096,42,F,46660,8900,2,123,Fashion,123,2,8900,2,Win-back Offer (Free Delivery)
+C0097,62,M,25084,14183,9,22,Sports,22,9,14183,1,Discount Coupon (20%)
+C0098,58,F,102197,1738,24,100,Groceries,100,24,1738,0,Premium Loyalty Rewards
+C0099,46,M,33507,10440,3,98,Sports,98,3,10440,2,Win-back Offer (Free Delivery)
+C0100,32,M,92595,1482,24,158,Sports,158,24,1482,0,Premium Loyalty Rewards
+C0101,62,F,103807,1503,25,25,Beauty,25,25,1503,0,Premium Loyalty Rewards
+C0102,18,F,65539,9111,15,28,Home Decor,28,15,9111,1,Discount Coupon (20%)
+C0103,42,M,135953,3392,3,113,Fashion,113,3,3392,0,Premium Loyalty Rewards
+C0104,24,M,27491,9111,19,45,Beauty,45,19,9111,1,Discount Coupon (20%)
+C0105,26,F,147706,519,18,68,Electronics,68,18,519,0,Premium Loyalty Rewards
+C0106,41,M,132831,12511,8,7,Fashion,7,8,12511,1,Discount Coupon (20%)
+C0107,18,F,70192,4617,26,49,Sports,49,26,4617,0,Premium Loyalty Rewards
+C0108,61,F,100395,19786,17,137,Fashion,137,17,19786,2,Win-back Offer (Free Delivery)
+C0109,25,F,143797,15522,8,164,Home Decor,164,8,15522,2,Win-back Offer (Free Delivery)
+C0110,41,F,83888,9800,7,83,Electronics,83,7,9800,1,Discount Coupon (20%)
+C0111,28,M,93609,5793,7,129,Home Decor,129,7,5793,2,Win-back Offer (Free Delivery)
+C0112,68,F,29077,867,3,138,Electronics,138,3,867,0,Premium Loyalty Rewards
+C0113,34,M,137440,18528,1,164,Beauty,164,1,18528,2,Win-back Offer (Free Delivery)
+C0114,25,F,142901,14918,4,73,Sports,73,4,14918,1,Discount Coupon (20%)
+C0115,52,M,40953,1649,25,46,Electronics,46,25,1649,0,Premium Loyalty Rewards
+C0116,52,F,96919,10056,5,106,Electronics,106,5,10056,2,Win-back Offer (Free Delivery)
+C0117,50,M,134682,6240,1,160,Electronics,160,1,6240,2,Win-back Offer (Free Delivery)
+C0118,22,M,141041,10937,15,32,Fashion,32,15,10937,1,Discount Coupon (20%)
+C0119,59,F,87889,3816,5,6,Beauty,6,5,3816,1,Discount Coupon (20%)
+C0120,56,F,43821,4581,13,176,Fashion,176,13,4581,2,Win-back Offer (Free Delivery)
+C0121,58,F,57567,6648,8,166,Sports,166,8,6648,2,Win-back Offer (Free Delivery)
+C0122,45,F,135374,18777,8,145,Electronics,145,8,18777,2,Win-back Offer (Free Delivery)
+C0123,24,M,44860,4937,5,74,Beauty,74,5,4937,0,Premium Loyalty Rewards
+C0124,26,F,41195,7858,28,114,Beauty,114,28,7858,0,Premium Loyalty Rewards
+C0125,25,M,97475,11000,9,27,Groceries,27,9,11000,1,Discount Coupon (20%)
+C0126,29,M,110874,8093,1,54,Sports,54,1,8093,1,Discount Coupon (20%)
+C0127,51,F,107266,5642,4,178,Beauty,178,4,5642,2,Win-back Offer (Free Delivery)
+C0128,50,M,41427,14928,3,163,Electronics,163,3,14928,2,Win-back Offer (Free Delivery)
+C0129,65,M,120732,16152,2,85,Electronics,85,2,16152,2,Win-back Offer (Free Delivery)
+C0130,40,M,47083,2485,8,127,Beauty,127,8,2485,0,Premium Loyalty Rewards
+C0131,41,M,107046,14408,23,153,Fashion,153,23,14408,2,Win-back Offer (Free Delivery)
+C0132,54,F,77372,771,9,156,Sports,156,9,771,0,Premium Loyalty Rewards
+C0133,52,F,143786,263,2,111,Electronics,111,2,263,0,Premium Loyalty Rewards
+C0134,61,F,64064,8756,14,15,Beauty,15,14,8756,1,Discount Coupon (20%)
+C0135,57,F,27813,11334,14,132,Electronics,132,14,11334,2,Win-back Offer (Free Delivery)
+C0136,39,M,51598,4895,4,93,Beauty,93,4,4895,0,Premium Loyalty Rewards
+C0137,44,M,132718,10734,6,123,Sports,123,6,10734,2,Win-back Offer (Free Delivery)
+C0138,52,F,146879,4898,11,73,Beauty,73,11,4898,0,Premium Loyalty Rewards
+C0139,18,F,113106,18839,3,155,Groceries,155,3,18839,2,Win-back Offer (Free Delivery)
+C0140,52,F,47082,10849,8,154,Beauty,154,8,10849,2,Win-back Offer (Free Delivery)
+C0141,54,M,49241,5927,3,147,Beauty,147,3,5927,2,Win-back Offer (Free Delivery)
+C0142,64,F,116214,4819,14,92,Sports,92,14,4819,0,Premium Loyalty Rewards
+C0143,31,F,64569,693,28,17,Beauty,17,28,693,0,Premium Loyalty Rewards
+C0144,20,F,31745,7494,13,43,Sports,43,13,7494,1,Discount Coupon (20%)
+C0145,18,M,46029,14156,13,121,Groceries,121,13,14156,2,Win-back Offer (Free Delivery)
+C0146,22,M,33025,19977,2,41,Sports,41,2,19977,1,Discount Coupon (20%)
+C0147,43,M,121660,10736,13,170,Electronics,170,13,10736,2,Win-back Offer (Free Delivery)
+C0148,31,M,143395,19156,29,178,Sports,178,29,19156,2,Win-back Offer (Free Delivery)
+C0149,56,M,34288,116,19,168,Groceries,168,19,116,0,Premium Loyalty Rewards
+C0150,44,M,109186,3291,27,39,Home Decor,39,27,3291,0,Premium Loyalty Rewards
+C0151,26,M,26540,492,6,113,Beauty,113,6,492,0,Premium Loyalty Rewards
+C0152,32,M,117768,6372,16,151,Sports,151,16,6372,0,Premium Loyalty Rewards
+C0153,32,F,101958,17055,2,111,Beauty,111,2,17055,2,Win-back Offer (Free Delivery)
+C0154,43,F,88878,3731,8,47,Fashion,47,8,3731,0,Premium Loyalty Rewards
+C0155,59,M,61846,6272,17,63,Electronics,63,17,6272,0,Premium Loyalty Rewards
+C0156,30,M,121148,9412,23,110,Electronics,110,23,9412,0,Premium Loyalty Rewards
+C0157,68,F,95932,18763,2,69,Fashion,69,2,18763,1,Discount Coupon (20%)
+C0158,49,M,37482,9006,10,43,Fashion,43,10,9006,1,Discount Coupon (20%)
+C0159,56,M,43411,17259,28,176,Sports,176,28,17259,2,Win-back Offer (Free Delivery)
+C0160,66,M,70975,18731,16,34,Fashion,34,16,18731,1,Discount Coupon (20%)
+C0161,69,F,80545,16562,6,40,Home Decor,40,6,16562,1,Discount Coupon (20%)
+C0162,49,F,132302,8180,28,61,Beauty,61,28,8180,0,Premium Loyalty Rewards
+C0163,21,F,98797,7199,2,178,Beauty,178,2,7199,2,Win-back Offer (Free Delivery)
+C0164,47,F,72307,15016,2,62,Groceries,62,2,15016,1,Discount Coupon (20%)
+C0165,54,F,23093,7183,26,58,Fashion,58,26,7183,0,Premium Loyalty Rewards
+C0166,40,M,97258,9323,13,161,Fashion,161,13,9323,2,Win-back Offer (Free Delivery)
+C0167,56,F,42042,5040,24,75,Home Decor,75,24,5040,0,Premium Loyalty Rewards
+C0168,62,M,72930,19755,15,16,Electronics,16,15,19755,1,Discount Coupon (20%)
+C0169,32,M,137584,3556,28,82,Electronics,82,28,3556,0,Premium Loyalty Rewards
+C0170,60,F,64413,7888,2,94,Beauty,94,2,7888,2,Win-back Offer (Free Delivery)
+C0171,46,F,133387,2811,7,48,Beauty,48,7,2811,0,Premium Loyalty Rewards
+C0172,53,M,113623,11380,3,138,Sports,138,3,11380,2,Win-back Offer (Free Delivery)
+C0173,30,M,117883,18152,8,82,Home Decor,82,8,18152,1,Discount Coupon (20%)
+C0174,49,M,53756,16631,23,38,Groceries,38,23,16631,1,Discount Coupon (20%)
+C0175,24,F,73268,12189,14,127,Groceries,127,14,12189,2,Win-back Offer (Free Delivery)
+C0176,68,F,59214,10242,24,19,Home Decor,19,24,10242,1,Discount Coupon (20%)
+C0177,39,F,101871,16849,23,164,Groceries,164,23,16849,2,Win-back Offer (Free Delivery)
+C0178,45,F,147844,15687,27,63,Electronics,63,27,15687,1,Discount Coupon (20%)
+C0179,19,F,48602,9966,22,77,Groceries,77,22,9966,0,Premium Loyalty Rewards
+C0180,59,M,73331,4631,29,174,Groceries,174,29,4631,0,Premium Loyalty Rewards
+C0181,62,F,68901,12786,7,131,Home Decor,131,7,12786,2,Win-back Offer (Free Delivery)
+C0182,23,M,119986,5430,21,102,Home Decor,102,21,5430,0,Premium Loyalty Rewards
+C0183,45,M,83416,5610,7,65,Groceries,65,7,5610,0,Premium Loyalty Rewards
+C0184,45,M,52196,9064,1,120,Fashion,120,1,9064,2,Win-back Offer (Free Delivery)
+C0185,61,F,148386,6593,17,91,Home Decor,91,17,6593,0,Premium Loyalty Rewards
+C0186,61,F,25626,10859,9,8,Sports,8,9,10859,1,Discount Coupon (20%)
+C0187,37,F,27424,5539,21,179,Sports,179,21,5539,0,Premium Loyalty Rewards
+C0188,47,M,32857,14573,13,73,Electronics,73,13,14573,1,Discount Coupon (20%)
+C0189,28,M,130459,9865,21,134,Groceries,134,21,9865,2,Win-back Offer (Free Delivery)
+C0190,45,M,135621,13379,19,107,Fashion,107,19,13379,2,Win-back Offer (Free Delivery)
+C0191,42,M,39982,6611,21,89,Electronics,89,21,6611,0,Premium Loyalty Rewards
+C0192,56,M,96961,11583,19,39,Groceries,39,19,11583,1,Discount Coupon (20%)
+C0193,50,M,21980,17730,25,113,Home Decor,113,25,17730,2,Win-back Offer (Free Delivery)
+C0194,18,F,68290,2476,25,28,Sports,28,25,2476,0,Premium Loyalty Rewards
+C0195,44,F,46431,19493,22,97,Beauty,97,22,19493,1,Discount Coupon (20%)
+C0196,69,F,104976,11924,17,37,Fashion,37,17,11924,1,Discount Coupon (20%)
+C0197,30,F,127288,18311,23,137,Beauty,137,23,18311,2,Win-back Offer (Free Delivery)
+C0198,58,M,102711,7079,23,82,Sports,82,23,7079,0,Premium Loyalty Rewards
+C0199,20,M,134187,9932,10,56,Beauty,56,10,9932,1,Discount Coupon (20%)
+C0200,56,F,46385,12604,10,85,Home Decor,85,10,12604,1,Discount Coupon (20%)
+C0201,23,M,58158,7010,4,2,Groceries,2,4,7010,1,Discount Coupon (20%)
+C0202,25,F,43019,14189,8,58,Home Decor,58,8,14189,1,Discount Coupon (20%)
+C0203,44,F,38639,2296,22,107,Beauty,107,22,2296,0,Premium Loyalty Rewards
+C0204,26,F,105530,6078,20,123,Home Decor,123,20,6078,0,Premium Loyalty Rewards
+C0205,54,M,119911,17253,20,168,Sports,168,20,17253,2,Win-back Offer (Free Delivery)
+C0206,50,F,41563,880,18,164,Fashion,164,18,880,0,Premium Loyalty Rewards
+C0207,68,F,59341,10008,14,114,Home Decor,114,14,10008,2,Win-back Offer (Free Delivery)
+C0208,59,F,135672,6403,18,107,Sports,107,18,6403,0,Premium Loyalty Rewards
+C0209,61,M,25776,14786,28,37,Fashion,37,28,14786,1,Discount Coupon (20%)
+C0210,41,M,56444,4083,14,79,Groceries,79,14,4083,0,Premium Loyalty Rewards
+C0211,32,F,88916,9603,20,92,Beauty,92,20,9603,0,Premium Loyalty Rewards
+C0212,49,M,28711,17005,21,18,Groceries,18,21,17005,1,Discount Coupon (20%)
+C0213,49,M,94318,13170,24,98,Electronics,98,24,13170,1,Discount Coupon (20%)
+C0214,41,M,102970,12332,15,63,Sports,63,15,12332,1,Discount Coupon (20%)
+C0215,58,M,132301,4683,22,150,Fashion,150,22,4683,0,Premium Loyalty Rewards
+C0216,69,M,105553,6046,4,139,Home Decor,139,4,6046,2,Win-back Offer (Free Delivery)
+C0217,66,M,50707,16477,13,4,Groceries,4,13,16477,1,Discount Coupon (20%)
+C0218,66,M,59110,7228,27,135,Fashion,135,27,7228,0,Premium Loyalty Rewards
+C0219,69,M,149410,11989,23,61,Sports,61,23,11989,1,Discount Coupon (20%)
+C0220,29,M,81788,12375,8,107,Electronics,107,8,12375,2,Win-back Offer (Free Delivery)
+C0221,56,M,102879,2561,18,54,Groceries,54,18,2561,0,Premium Loyalty Rewards
+C0222,19,F,58827,14391,12,88,Beauty,88,12,14391,1,Discount Coupon (20%)
+C0223,20,F,127188,14136,23,68,Fashion,68,23,14136,1,Discount Coupon (20%)
+C0224,66,M,25655,11535,14,129,Beauty,129,14,11535,2,Win-back Offer (Free Delivery)
+C0225,54,F,64859,785,2,55,Fashion,55,2,785,0,Premium Loyalty Rewards
+C0226,66,F,73625,18644,18,3,Fashion,3,18,18644,1,Discount Coupon (20%)
+C0227,34,M,72098,12358,24,166,Sports,166,24,12358,2,Win-back Offer (Free Delivery)
+C0228,66,M,35251,16090,2,121,Sports,121,2,16090,2,Win-back Offer (Free Delivery)
+C0229,19,M,142413,16522,11,129,Sports,129,11,16522,2,Win-back Offer (Free Delivery)
+C0230,19,F,20526,10836,9,102,Home Decor,102,9,10836,2,Win-back Offer (Free Delivery)
+C0231,45,F,88760,4975,12,38,Fashion,38,12,4975,0,Premium Loyalty Rewards
+C0232,40,M,67837,17740,17,85,Groceries,85,17,17740,1,Discount Coupon (20%)
+C0233,54,M,145133,11282,15,157,Beauty,157,15,11282,2,Win-back Offer (Free Delivery)
+C0234,49,M,149478,2296,25,133,Sports,133,25,2296,0,Premium Loyalty Rewards
+C0235,50,F,31536,7265,17,92,Sports,92,17,7265,0,Premium Loyalty Rewards
+C0236,18,F,48541,16097,26,21,Beauty,21,26,16097,1,Discount Coupon (20%)
+C0237,36,F,99083,14315,29,109,Beauty,109,29,14315,1,Discount Coupon (20%)
+C0238,19,F,71027,401,26,47,Fashion,47,26,401,0,Premium Loyalty Rewards
+C0239,61,M,54531,17130,18,84,Sports,84,18,17130,1,Discount Coupon (20%)
+C0240,43,M,28712,14671,22,83,Beauty,83,22,14671,1,Discount Coupon (20%)
+C0241,49,M,124101,10051,6,35,Home Decor,35,6,10051,1,Discount Coupon (20%)
+C0242,23,M,85455,10873,17,69,Home Decor,69,17,10873,1,Discount Coupon (20%)
+C0243,49,F,94744,16240,23,129,Sports,129,23,16240,2,Win-back Offer (Free Delivery)
+C0244,21,F,141787,13157,24,140,Beauty,140,24,13157,2,Win-back Offer (Free Delivery)
+C0245,28,M,149749,12600,18,27,Fashion,27,18,12600,1,Discount Coupon (20%)
+C0246,34,M,25109,16021,8,56,Fashion,56,8,16021,1,Discount Coupon (20%)
+C0247,55,F,141332,11970,9,23,Fashion,23,9,11970,1,Discount Coupon (20%)
+C0248,41,M,69268,4182,6,153,Electronics,153,6,4182,2,Win-back Offer (Free Delivery)
+C0249,22,F,120737,13818,5,21,Sports,21,5,13818,1,Discount Coupon (20%)
+C0250,69,M,74615,10617,12,61,Fashion,61,12,10617,1,Discount Coupon (20%)
+C0251,51,M,102503,3854,25,63,Home Decor,63,25,3854,0,Premium Loyalty Rewards
+C0252,23,M,143274,1824,29,122,Beauty,122,29,1824,0,Premium Loyalty Rewards
+C0253,39,M,49759,1476,28,52,Groceries,52,28,1476,0,Premium Loyalty Rewards
+C0254,28,M,105708,8806,11,88,Groceries,88,11,8806,0,Premium Loyalty Rewards
+C0255,65,M,80112,8994,25,153,Fashion,153,25,8994,0,Premium Loyalty Rewards
+C0256,33,M,122471,18137,1,55,Groceries,55,1,18137,1,Discount Coupon (20%)
+C0257,50,F,146740,18550,11,46,Groceries,46,11,18550,1,Discount Coupon (20%)
+C0258,26,F,143153,16506,19,32,Electronics,32,19,16506,1,Discount Coupon (20%)
+C0259,23,F,46589,18944,9,55,Home Decor,55,9,18944,1,Discount Coupon (20%)
+C0260,33,F,50015,6026,27,96,Home Decor,96,27,6026,0,Premium Loyalty Rewards
+C0261,46,F,49009,6351,2,133,Electronics,133,2,6351,2,Win-back Offer (Free Delivery)
+C0262,20,M,103309,9596,12,36,Electronics,36,12,9596,1,Discount Coupon (20%)
+C0263,37,M,146446,3400,4,110,Groceries,110,4,3400,0,Premium Loyalty Rewards
+C0264,53,F,82046,8653,4,177,Sports,177,4,8653,2,Win-back Offer (Free Delivery)
+C0265,36,M,126661,3827,18,106,Beauty,106,18,3827,0,Premium Loyalty Rewards
+C0266,43,F,46143,16998,15,58,Beauty,58,15,16998,1,Discount Coupon (20%)
+C0267,20,F,26154,16932,19,39,Groceries,39,19,16932,1,Discount Coupon (20%)
+C0268,36,M,41804,6119,13,80,Beauty,80,13,6119,0,Premium Loyalty Rewards
+C0269,37,M,61688,15563,19,97,Electronics,97,19,15563,1,Discount Coupon (20%)
+C0270,49,M,84288,10147,17,113,Home Decor,113,17,10147,2,Win-back Offer (Free Delivery)
+C0271,24,F,71195,11854,6,61,Beauty,61,6,11854,1,Discount Coupon (20%)
+C0272,69,M,40581,2620,16,137,Groceries,137,16,2620,0,Premium Loyalty Rewards
+C0273,58,F,72648,3181,24,6,Sports,6,24,3181,0,Premium Loyalty Rewards
+C0274,50,F,50087,1528,12,109,Groceries,109,12,1528,0,Premium Loyalty Rewards
+C0275,57,F,69930,4067,19,35,Fashion,35,19,4067,0,Premium Loyalty Rewards
+C0276,56,M,52981,6545,5,39,Groceries,39,5,6545,1,Discount Coupon (20%)
+C0277,35,M,89298,14666,17,150,Electronics,150,17,14666,2,Win-back Offer (Free Delivery)
+C0278,57,F,66167,14142,26,169,Home Decor,169,26,14142,2,Win-back Offer (Free Delivery)
+C0279,18,M,95304,11429,23,118,Home Decor,118,23,11429,2,Win-back Offer (Free Delivery)
+C0280,28,M,63408,2259,26,5,Beauty,5,26,2259,0,Premium Loyalty Rewards
+C0281,45,M,59499,5232,29,170,Electronics,170,29,5232,0,Premium Loyalty Rewards
+C0282,42,F,145816,19031,1,87,Fashion,87,1,19031,2,Win-back Offer (Free Delivery)
+C0283,67,F,72269,19463,28,76,Electronics,76,28,19463,1,Discount Coupon (20%)
+C0284,40,M,58559,15033,27,158,Groceries,158,27,15033,2,Win-back Offer (Free Delivery)
+C0285,48,F,134126,10573,25,57,Electronics,57,25,10573,1,Discount Coupon (20%)
+C0286,47,M,94319,19133,24,127,Electronics,127,24,19133,2,Win-back Offer (Free Delivery)
+C0287,59,M,131925,10905,23,29,Fashion,29,23,10905,1,Discount Coupon (20%)
+C0288,52,M,115317,3183,10,165,Groceries,165,10,3183,0,Premium Loyalty Rewards
+C0289,24,M,116347,17521,15,87,Sports,87,15,17521,1,Discount Coupon (20%)
+C0290,33,F,68787,14044,23,141,Sports,141,23,14044,2,Win-back Offer (Free Delivery)
+C0291,43,F,55488,19973,21,160,Home Decor,160,21,19973,2,Win-back Offer (Free Delivery)
+C0292,65,F,94441,7704,21,46,Beauty,46,21,7704,0,Premium Loyalty Rewards
+C0293,69,M,94663,15479,11,116,Electronics,116,11,15479,2,Win-back Offer (Free Delivery)
+C0294,66,M,42431,19118,13,112,Home Decor,112,13,19118,2,Win-back Offer (Free Delivery)
+C0295,19,M,81681,4083,5,151,Fashion,151,5,4083,2,Win-back Offer (Free Delivery)
+C0296,18,F,83483,1878,1,45,Sports,45,1,1878,0,Premium Loyalty Rewards
+C0297,65,M,142720,5210,24,145,Electronics,145,24,5210,0,Premium Loyalty Rewards
+C0298,29,F,69153,12187,12,104,Fashion,104,12,12187,2,Win-back Offer (Free Delivery)
+C0299,22,F,26368,17608,11,85,Beauty,85,11,17608,1,Discount Coupon (20%)
+C0300,54,F,47424,17181,17,134,Fashion,134,17,17181,2,Win-back Offer (Free Delivery)
+C0301,49,F,132360,2279,4,108,Electronics,108,4,2279,0,Premium Loyalty Rewards
+C0302,26,F,65004,9696,15,18,Beauty,18,15,9696,1,Discount Coupon (20%)
+C0303,58,F,103869,5351,25,94,Fashion,94,25,5351,0,Premium Loyalty Rewards
+C0304,52,M,108652,9335,9,150,Beauty,150,9,9335,2,Win-back Offer (Free Delivery)
+C0305,36,M,132755,18413,21,33,Electronics,33,21,18413,1,Discount Coupon (20%)
+C0306,65,F,76985,14971,20,158,Electronics,158,20,14971,2,Win-back Offer (Free Delivery)
+C0307,33,F,70069,1113,19,126,Beauty,126,19,1113,0,Premium Loyalty Rewards
+C0308,20,M,72326,16710,19,160,Groceries,160,19,16710,2,Win-back Offer (Free Delivery)
+C0309,37,F,128737,1928,12,170,Home Decor,170,12,1928,0,Premium Loyalty Rewards
+C0310,41,F,101061,8009,5,122,Fashion,122,5,8009,2,Win-back Offer (Free Delivery)
+C0311,50,M,43398,5688,10,138,Fashion,138,10,5688,2,Win-back Offer (Free Delivery)
+C0312,41,F,118393,13209,17,115,Groceries,115,17,13209,2,Win-back Offer (Free Delivery)
+C0313,69,F,70861,2123,5,164,Groceries,164,5,2123,0,Premium Loyalty Rewards
+C0314,28,F,95897,14637,22,162,Groceries,162,22,14637,2,Win-back Offer (Free Delivery)
+C0315,66,M,101905,5991,16,28,Sports,28,16,5991,0,Premium Loyalty Rewards
+C0316,25,M,147118,1180,7,11,Sports,11,7,1180,0,Premium Loyalty Rewards
+C0317,53,M,88577,5136,28,167,Beauty,167,28,5136,0,Premium Loyalty Rewards
+C0318,55,F,85641,15479,9,47,Sports,47,9,15479,1,Discount Coupon (20%)
+C0319,57,F,29078,10922,3,127,Electronics,127,3,10922,2,Win-back Offer (Free Delivery)
+C0320,37,M,45003,2663,15,147,Beauty,147,15,2663,0,Premium Loyalty Rewards
+C0321,52,F,82768,3392,16,118,Fashion,118,16,3392,0,Premium Loyalty Rewards
+C0322,65,F,71047,3686,18,143,Home Decor,143,18,3686,0,Premium Loyalty Rewards
+C0323,42,F,91626,16187,14,126,Electronics,126,14,16187,2,Win-back Offer (Free Delivery)
+C0324,52,F,77660,16200,3,156,Fashion,156,3,16200,2,Win-back Offer (Free Delivery)
+C0325,42,F,124386,6743,12,152,Fashion,152,12,6743,2,Win-back Offer (Free Delivery)
+C0326,46,M,69786,4059,9,72,Beauty,72,9,4059,0,Premium Loyalty Rewards
+C0327,35,F,21925,11105,28,107,Groceries,107,28,11105,0,Premium Loyalty Rewards
+C0328,63,M,103976,10875,7,137,Groceries,137,7,10875,2,Win-back Offer (Free Delivery)
+C0329,35,F,125221,261,9,175,Electronics,175,9,261,0,Premium Loyalty Rewards
+C0330,19,M,137832,16129,13,33,Groceries,33,13,16129,1,Discount Coupon (20%)
+C0331,52,F,145150,17077,18,19,Fashion,19,18,17077,1,Discount Coupon (20%)
+C0332,33,M,46015,14326,5,74,Groceries,74,5,14326,1,Discount Coupon (20%)
+C0333,58,F,53320,11254,13,168,Sports,168,13,11254,2,Win-back Offer (Free Delivery)
+C0334,53,M,84881,12180,4,175,Groceries,175,4,12180,2,Win-back Offer (Free Delivery)
+C0335,50,F,110827,3490,2,157,Fashion,157,2,3490,2,Win-back Offer (Free Delivery)
+C0336,21,M,140071,6097,16,178,Beauty,178,16,6097,2,Win-back Offer (Free Delivery)
+C0337,50,F,122215,12793,9,98,Electronics,98,9,12793,2,Win-back Offer (Free Delivery)
+C0338,31,M,46289,17147,9,141,Home Decor,141,9,17147,2,Win-back Offer (Free Delivery)
+C0339,38,M,148859,9424,6,129,Groceries,129,6,9424,2,Win-back Offer (Free Delivery)
+C0340,65,F,23389,641,11,162,Fashion,162,11,641,0,Premium Loyalty Rewards
+C0341,37,F,45683,5193,22,93,Home Decor,93,22,5193,0,Premium Loyalty Rewards
+C0342,25,M,33629,13528,24,176,Home Decor,176,24,13528,2,Win-back Offer (Free Delivery)
+C0343,24,F,81550,11266,22,48,Sports,48,22,11266,1,Discount Coupon (20%)
+C0344,20,M,44826,17351,1,177,Home Decor,177,1,17351,2,Win-back Offer (Free Delivery)
+C0345,34,M,120734,16163,4,64,Beauty,64,4,16163,1,Discount Coupon (20%)
+C0346,50,M,46630,10358,13,61,Fashion,61,13,10358,1,Discount Coupon (20%)
+C0347,65,F,118762,16144,23,157,Fashion,157,23,16144,2,Win-back Offer (Free Delivery)
+C0348,29,M,66163,5569,13,39,Groceries,39,13,5569,0,Premium Loyalty Rewards
+C0349,68,M,118511,6356,13,128,Groceries,128,13,6356,0,Premium Loyalty Rewards
+C0350,39,F,86435,10820,2,88,Groceries,88,2,10820,2,Win-back Offer (Free Delivery)
+C0351,39,F,31653,1269,9,26,Beauty,26,9,1269,0,Premium Loyalty Rewards
+C0352,63,F,47961,930,24,17,Home Decor,17,24,930,0,Premium Loyalty Rewards
+C0353,47,F,101941,1751,8,71,Home Decor,71,8,1751,0,Premium Loyalty Rewards
+C0354,55,M,94137,17620,7,13,Sports,13,7,17620,1,Discount Coupon (20%)
+C0355,55,M,53662,19294,4,69,Beauty,69,4,19294,1,Discount Coupon (20%)
+C0356,62,M,118818,9618,18,26,Groceries,26,18,9618,1,Discount Coupon (20%)
+C0357,68,M,76446,13358,3,49,Electronics,49,3,13358,1,Discount Coupon (20%)
+C0358,25,F,41288,16284,28,7,Sports,7,28,16284,1,Discount Coupon (20%)
+C0359,44,M,142555,1119,6,58,Electronics,58,6,1119,0,Premium Loyalty Rewards
+C0360,44,M,115081,10128,12,49,Home Decor,49,12,10128,1,Discount Coupon (20%)
+C0361,51,F,56877,12548,12,103,Sports,103,12,12548,2,Win-back Offer (Free Delivery)
+C0362,38,M,131562,12585,21,53,Sports,53,21,12585,1,Discount Coupon (20%)
+C0363,47,M,35313,1383,28,62,Fashion,62,28,1383,0,Premium Loyalty Rewards
+C0364,50,M,100885,17143,8,17,Home Decor,17,8,17143,1,Discount Coupon (20%)
+C0365,45,M,92715,18494,22,171,Home Decor,171,22,18494,2,Win-back Offer (Free Delivery)
+C0366,64,M,30326,1833,22,25,Beauty,25,22,1833,0,Premium Loyalty Rewards
+C0367,50,M,130091,18609,1,131,Sports,131,1,18609,2,Win-back Offer (Free Delivery)
+C0368,22,F,145836,18655,4,29,Home Decor,29,4,18655,1,Discount Coupon (20%)
+C0369,65,F,21560,16330,21,117,Sports,117,21,16330,2,Win-back Offer (Free Delivery)
+C0370,36,M,99148,14572,28,160,Beauty,160,28,14572,2,Win-back Offer (Free Delivery)
+C0371,21,M,103186,12989,11,26,Beauty,26,11,12989,1,Discount Coupon (20%)
+C0372,52,F,46745,3571,3,124,Fashion,124,3,3571,0,Premium Loyalty Rewards
+C0373,66,M,51890,9128,13,144,Sports,144,13,9128,2,Win-back Offer (Free Delivery)
+C0374,34,M,40022,8429,25,25,Home Decor,25,25,8429,1,Discount Coupon (20%)
+C0375,61,M,143629,2197,17,54,Home Decor,54,17,2197,0,Premium Loyalty Rewards
+C0376,45,F,72579,14182,22,156,Sports,156,22,14182,2,Win-back Offer (Free Delivery)
+C0377,47,M,90316,14030,22,73,Sports,73,22,14030,1,Discount Coupon (20%)
+C0378,46,F,103847,10177,10,120,Sports,120,10,10177,2,Win-back Offer (Free Delivery)
+C0379,63,M,48380,6497,21,56,Groceries,56,21,6497,0,Premium Loyalty Rewards
+C0380,23,F,130198,2857,12,65,Home Decor,65,12,2857,0,Premium Loyalty Rewards
+C0381,52,F,22356,18384,15,93,Beauty,93,15,18384,1,Discount Coupon (20%)
+C0382,58,M,90326,19094,21,86,Home Decor,86,21,19094,1,Discount Coupon (20%)
+C0383,54,F,112447,17933,10,80,Groceries,80,10,17933,1,Discount Coupon (20%)
+C0384,41,M,134994,5117,14,169,Sports,169,14,5117,2,Win-back Offer (Free Delivery)
+C0385,46,F,109899,16470,13,108,Fashion,108,13,16470,2,Win-back Offer (Free Delivery)
+C0386,66,M,40049,8099,5,179,Sports,179,5,8099,2,Win-back Offer (Free Delivery)
+C0387,63,M,95717,10295,6,118,Sports,118,6,10295,2,Win-back Offer (Free Delivery)
+C0388,48,F,125361,2196,24,157,Groceries,157,24,2196,0,Premium Loyalty Rewards
+C0389,52,M,36082,15533,2,83,Home Decor,83,2,15533,2,Win-back Offer (Free Delivery)
+C0390,50,M,20661,10695,22,147,Sports,147,22,10695,2,Win-back Offer (Free Delivery)
+C0391,69,F,57412,16041,17,169,Home Decor,169,17,16041,2,Win-back Offer (Free Delivery)
+C0392,38,M,134015,19815,4,173,Electronics,173,4,19815,2,Win-back Offer (Free Delivery)
+C0393,49,M,143191,15178,14,15,Beauty,15,14,15178,1,Discount Coupon (20%)
+C0394,40,F,22920,5205,10,131,Home Decor,131,10,5205,0,Premium Loyalty Rewards
+C0395,50,F,111194,19462,3,139,Fashion,139,3,19462,2,Win-back Offer (Free Delivery)
+C0396,20,M,134306,2939,25,174,Beauty,174,25,2939,0,Premium Loyalty Rewards
+C0397,35,M,80315,3484,3,30,Fashion,30,3,3484,0,Premium Loyalty Rewards
+C0398,42,F,99561,10951,15,57,Sports,57,15,10951,1,Discount Coupon (20%)
+C0399,59,F,28946,10153,6,146,Beauty,146,6,10153,2,Win-back Offer (Free Delivery)
+C0400,48,M,114242,13593,17,179,Home Decor,179,17,13593,2,Win-back Offer (Free Delivery)
+C0401,20,F,65500,17169,12,128,Beauty,128,12,17169,2,Win-back Offer (Free Delivery)
+C0402,57,M,124540,14239,22,48,Sports,48,22,14239,1,Discount Coupon (20%)
+C0403,63,M,36309,7631,20,136,Groceries,136,20,7631,0,Premium Loyalty Rewards
+C0404,41,M,75230,4383,24,22,Fashion,22,24,4383,0,Premium Loyalty Rewards
+C0405,67,M,131822,7836,29,6,Sports,6,29,7836,1,Discount Coupon (20%)
+C0406,49,M,118656,7810,11,104,Groceries,104,11,7810,0,Premium Loyalty Rewards
+C0407,64,F,143782,1719,25,36,Beauty,36,25,1719,0,Premium Loyalty Rewards
+C0408,39,F,50027,14075,4,79,Beauty,79,4,14075,1,Discount Coupon (20%)
+C0409,40,F,146768,12935,26,116,Sports,116,26,12935,2,Win-back Offer (Free Delivery)
+C0410,19,F,92541,15361,28,57,Home Decor,57,28,15361,1,Discount Coupon (20%)
+C0411,44,M,132340,1531,26,49,Beauty,49,26,1531,0,Premium Loyalty Rewards
+C0412,59,M,134846,9167,6,173,Home Decor,173,6,9167,2,Win-back Offer (Free Delivery)
+C0413,19,M,79321,4813,1,82,Home Decor,82,1,4813,0,Premium Loyalty Rewards
+C0414,43,M,20956,9657,20,66,Home Decor,66,20,9657,1,Discount Coupon (20%)
+C0415,34,F,120375,9535,23,77,Electronics,77,23,9535,0,Premium Loyalty Rewards
+C0416,57,M,94131,5098,28,45,Groceries,45,28,5098,0,Premium Loyalty Rewards
+C0417,50,M,67908,262,16,79,Groceries,79,16,262,0,Premium Loyalty Rewards
+C0418,26,F,98339,2074,15,20,Beauty,20,15,2074,0,Premium Loyalty Rewards
+C0419,60,F,145659,19775,17,123,Beauty,123,17,19775,2,Win-back Offer (Free Delivery)
+C0420,65,F,45963,8561,8,67,Home Decor,67,8,8561,1,Discount Coupon (20%)
+C0421,56,F,121757,17115,28,83,Electronics,83,28,17115,1,Discount Coupon (20%)
+C0422,46,M,59443,17389,26,3,Home Decor,3,26,17389,1,Discount Coupon (20%)
+C0423,59,M,119259,2114,12,64,Electronics,64,12,2114,0,Premium Loyalty Rewards
+C0424,43,F,59063,9933,27,40,Home Decor,40,27,9933,1,Discount Coupon (20%)
+C0425,52,M,134225,7996,22,59,Fashion,59,22,7996,0,Premium Loyalty Rewards
+C0426,67,M,136400,304,21,62,Fashion,62,21,304,0,Premium Loyalty Rewards
+C0427,42,M,100818,17065,10,132,Sports,132,10,17065,2,Win-back Offer (Free Delivery)
+C0428,41,F,24703,9132,27,60,Home Decor,60,27,9132,0,Premium Loyalty Rewards
+C0429,30,M,85128,5447,15,116,Beauty,116,15,5447,0,Premium Loyalty Rewards
+C0430,24,F,92099,2743,9,75,Groceries,75,9,2743,0,Premium Loyalty Rewards
+C0431,53,M,45849,8117,2,122,Sports,122,2,8117,2,Win-back Offer (Free Delivery)
+C0432,62,M,51860,18781,5,107,Beauty,107,5,18781,2,Win-back Offer (Free Delivery)
+C0433,37,M,51585,17358,6,96,Fashion,96,6,17358,2,Win-back Offer (Free Delivery)
+C0434,18,F,42015,5660,7,91,Home Decor,91,7,5660,0,Premium Loyalty Rewards
+C0435,25,M,97539,15992,21,158,Sports,158,21,15992,2,Win-back Offer (Free Delivery)
+C0436,63,F,63585,14631,25,130,Home Decor,130,25,14631,2,Win-back Offer (Free Delivery)
+C0437,33,F,46958,17173,1,62,Fashion,62,1,17173,1,Discount Coupon (20%)
+C0438,31,F,46017,4100,23,49,Sports,49,23,4100,0,Premium Loyalty Rewards
+C0439,29,M,96707,14389,26,137,Fashion,137,26,14389,2,Win-back Offer (Free Delivery)
+C0440,68,M,144677,17155,7,92,Electronics,92,7,17155,2,Win-back Offer (Free Delivery)
+C0441,40,M,65350,8027,20,159,Fashion,159,20,8027,2,Win-back Offer (Free Delivery)
+C0442,32,M,32201,15662,25,124,Home Decor,124,25,15662,2,Win-back Offer (Free Delivery)
+C0443,45,F,49426,1271,12,61,Groceries,61,12,1271,0,Premium Loyalty Rewards
+C0444,51,F,37778,12018,16,48,Fashion,48,16,12018,1,Discount Coupon (20%)
+C0445,19,F,65241,9235,16,153,Beauty,153,16,9235,2,Win-back Offer (Free Delivery)
+C0446,49,M,62229,6442,11,164,Groceries,164,11,6442,2,Win-back Offer (Free Delivery)
+C0447,40,F,106652,17933,21,136,Electronics,136,21,17933,2,Win-back Offer (Free Delivery)
+C0448,39,M,148267,12029,4,58,Sports,58,4,12029,1,Discount Coupon (20%)
+C0449,68,F,138402,2639,13,101,Sports,101,13,2639,0,Premium Loyalty Rewards
+C0450,42,M,68364,4059,7,112,Groceries,112,7,4059,0,Premium Loyalty Rewards
+C0451,39,M,118833,13283,4,173,Sports,173,4,13283,2,Win-back Offer (Free Delivery)
+C0452,39,F,146503,5532,15,62,Fashion,62,15,5532,0,Premium Loyalty Rewards
+C0453,66,F,149044,18845,19,39,Groceries,39,19,18845,1,Discount Coupon (20%)
+C0454,69,F,104878,1853,9,58,Home Decor,58,9,1853,0,Premium Loyalty Rewards
+C0455,59,F,77056,18422,11,99,Fashion,99,11,18422,2,Win-back Offer (Free Delivery)
+C0456,23,M,47490,10223,8,44,Fashion,44,8,10223,1,Discount Coupon (20%)
+C0457,32,F,147769,16476,1,29,Fashion,29,1,16476,1,Discount Coupon (20%)
+C0458,60,F,39975,6688,23,59,Home Decor,59,23,6688,0,Premium Loyalty Rewards
+C0459,54,F,46723,6404,25,71,Electronics,71,25,6404,0,Premium Loyalty Rewards
+C0460,50,M,43279,7445,24,92,Beauty,92,24,7445,0,Premium Loyalty Rewards
+C0461,25,M,98301,15452,8,9,Sports,9,8,15452,1,Discount Coupon (20%)
+C0462,61,F,132214,697,13,127,Groceries,127,13,697,0,Premium Loyalty Rewards
+C0463,61,M,31561,19546,22,134,Electronics,134,22,19546,2,Win-back Offer (Free Delivery)
+C0464,22,F,127435,2436,27,157,Groceries,157,27,2436,0,Premium Loyalty Rewards
+C0465,56,M,86061,9979,4,145,Sports,145,4,9979,2,Win-back Offer (Free Delivery)
+C0466,21,M,108397,672,8,144,Home Decor,144,8,672,0,Premium Loyalty Rewards
+C0467,23,M,69153,7621,3,131,Fashion,131,3,7621,2,Win-back Offer (Free Delivery)
+C0468,62,M,53142,6271,29,21,Fashion,21,29,6271,0,Premium Loyalty Rewards
+C0469,49,F,46916,18574,9,64,Home Decor,64,9,18574,1,Discount Coupon (20%)
+C0470,69,F,84324,14092,29,90,Electronics,90,29,14092,1,Discount Coupon (20%)
+C0471,47,F,64965,11961,2,36,Electronics,36,2,11961,1,Discount Coupon (20%)
+C0472,64,M,145932,12564,2,62,Groceries,62,2,12564,1,Discount Coupon (20%)
+C0473,52,F,24648,1733,28,170,Home Decor,170,28,1733,0,Premium Loyalty Rewards
+C0474,57,F,55133,18001,13,76,Electronics,76,13,18001,1,Discount Coupon (20%)
+C0475,69,F,70677,12585,15,170,Home Decor,170,15,12585,2,Win-back Offer (Free Delivery)
+C0476,33,M,116059,10949,28,13,Sports,13,28,10949,1,Discount Coupon (20%)
+C0477,30,M,114588,3748,23,11,Fashion,11,23,3748,0,Premium Loyalty Rewards
+C0478,67,M,119950,15277,12,54,Fashion,54,12,15277,1,Discount Coupon (20%)
+C0479,59,F,118317,13240,26,16,Fashion,16,26,13240,1,Discount Coupon (20%)
+C0480,47,F,90135,18021,4,8,Home Decor,8,4,18021,1,Discount Coupon (20%)
+C0481,36,F,55046,14457,26,104,Home Decor,104,26,14457,1,Discount Coupon (20%)
+C0482,34,M,67064,13468,8,59,Groceries,59,8,13468,1,Discount Coupon (20%)
+C0483,36,M,121459,3237,9,57,Fashion,57,9,3237,0,Premium Loyalty Rewards
+C0484,45,F,126625,197,23,40,Groceries,40,23,197,0,Premium Loyalty Rewards
+C0485,43,M,89350,11507,5,130,Fashion,130,5,11507,2,Win-back Offer (Free Delivery)
+C0486,54,M,65893,12822,24,94,Groceries,94,24,12822,1,Discount Coupon (20%)
+C0487,43,M,121520,13024,20,138,Groceries,138,20,13024,2,Win-back Offer (Free Delivery)
+C0488,40,M,145818,3850,18,44,Sports,44,18,3850,0,Premium Loyalty Rewards
+C0489,26,F,81272,8635,11,139,Groceries,139,11,8635,2,Win-back Offer (Free Delivery)
+C0490,29,M,112152,4766,15,80,Home Decor,80,15,4766,0,Premium Loyalty Rewards
+C0491,18,M,142907,16109,28,81,Groceries,81,28,16109,1,Discount Coupon (20%)
+C0492,18,M,87649,17094,22,2,Fashion,2,22,17094,1,Discount Coupon (20%)
+C0493,64,M,84674,1827,9,178,Groceries,178,9,1827,0,Premium Loyalty Rewards
+C0494,51,F,144132,1954,17,140,Electronics,140,17,1954,0,Premium Loyalty Rewards
+C0495,49,F,139044,10900,27,115,Beauty,115,27,10900,0,Premium Loyalty Rewards
+C0496,65,M,128542,5155,26,90,Fashion,90,26,5155,0,Premium Loyalty Rewards
+C0497,42,M,33760,10371,12,23,Electronics,23,12,10371,1,Discount Coupon (20%)
+C0498,57,M,41927,18808,7,146,Fashion,146,7,18808,2,Win-back Offer (Free Delivery)
+C0499,62,M,106475,12919,10,62,Home Decor,62,10,12919,1,Discount Coupon (20%)
+C0500,18,M,81367,9469,25,113,Beauty,113,25,9469,0,Premium Loyalty Rewards
+C0501,33,M,117955,9383,26,128,Beauty,128,26,9383,0,Premium Loyalty Rewards
+C0502,56,F,32588,13271,25,62,Home Decor,62,25,13271,1,Discount Coupon (20%)
+C0503,22,M,141750,5874,10,38,Beauty,38,10,5874,0,Premium Loyalty Rewards
+C0504,39,F,121678,6619,27,166,Home Decor,166,27,6619,0,Premium Loyalty Rewards
+C0505,46,F,124734,11083,13,61,Electronics,61,13,11083,1,Discount Coupon (20%)
+C0506,20,M,138154,18233,19,129,Sports,129,19,18233,2,Win-back Offer (Free Delivery)
+C0507,29,F,72233,15039,11,173,Fashion,173,11,15039,2,Win-back Offer (Free Delivery)
+C0508,43,F,64738,881,13,156,Home Decor,156,13,881,0,Premium Loyalty Rewards
+C0509,33,F,53397,16382,21,149,Fashion,149,21,16382,2,Win-back Offer (Free Delivery)
+C0510,68,F,102189,6923,8,122,Electronics,122,8,6923,2,Win-back Offer (Free Delivery)
+C0511,54,F,96367,18589,8,110,Sports,110,8,18589,2,Win-back Offer (Free Delivery)
+C0512,39,F,144873,7293,4,13,Electronics,13,4,7293,1,Discount Coupon (20%)
+C0513,46,M,91260,2213,15,155,Beauty,155,15,2213,0,Premium Loyalty Rewards
+C0514,31,F,140585,16380,28,100,Fashion,100,28,16380,1,Discount Coupon (20%)
+C0515,45,F,96619,13665,11,135,Sports,135,11,13665,2,Win-back Offer (Free Delivery)
+C0516,22,F,131453,10283,11,22,Beauty,22,11,10283,1,Discount Coupon (20%)
+C0517,64,M,39816,18061,1,74,Sports,74,1,18061,1,Discount Coupon (20%)
+C0518,66,F,62240,9303,17,132,Beauty,132,17,9303,2,Win-back Offer (Free Delivery)
+C0519,47,M,26276,18758,15,23,Electronics,23,15,18758,1,Discount Coupon (20%)
+C0520,63,F,133939,15895,20,119,Home Decor,119,20,15895,2,Win-back Offer (Free Delivery)
+C0521,69,M,124199,18910,6,70,Fashion,70,6,18910,1,Discount Coupon (20%)
+C0522,22,M,99530,13589,24,84,Groceries,84,24,13589,1,Discount Coupon (20%)
+C0523,29,F,43499,5646,22,101,Groceries,101,22,5646,0,Premium Loyalty Rewards
+C0524,33,F,108576,6952,28,84,Electronics,84,28,6952,0,Premium Loyalty Rewards
+C0525,43,M,128856,2651,25,161,Fashion,161,25,2651,0,Premium Loyalty Rewards
+C0526,43,F,102495,6511,15,28,Fashion,28,15,6511,1,Discount Coupon (20%)
+C0527,65,M,141717,16491,9,136,Electronics,136,9,16491,2,Win-back Offer (Free Delivery)
+C0528,38,M,91635,19039,14,1,Fashion,1,14,19039,1,Discount Coupon (20%)
+C0529,56,M,127803,575,18,165,Home Decor,165,18,575,0,Premium Loyalty Rewards
+C0530,53,M,105112,10503,26,63,Electronics,63,26,10503,1,Discount Coupon (20%)
+C0531,50,M,55946,7339,17,22,Home Decor,22,17,7339,1,Discount Coupon (20%)
+C0532,47,F,75204,6810,18,70,Fashion,70,18,6810,0,Premium Loyalty Rewards
+C0533,54,M,71886,8178,5,125,Electronics,125,5,8178,2,Win-back Offer (Free Delivery)
+C0534,40,M,91652,2385,20,149,Fashion,149,20,2385,0,Premium Loyalty Rewards
+C0535,27,F,35563,5323,20,96,Electronics,96,20,5323,0,Premium Loyalty Rewards
+C0536,22,M,112324,13621,9,163,Fashion,163,9,13621,2,Win-back Offer (Free Delivery)
+C0537,53,F,112464,14989,11,79,Home Decor,79,11,14989,1,Discount Coupon (20%)
+C0538,51,F,121872,7071,24,5,Home Decor,5,24,7071,1,Discount Coupon (20%)
+C0539,69,F,29847,11631,22,60,Fashion,60,22,11631,1,Discount Coupon (20%)
+C0540,48,M,46155,14821,1,120,Electronics,120,1,14821,2,Win-back Offer (Free Delivery)
+C0541,27,M,99671,19306,18,46,Groceries,46,18,19306,1,Discount Coupon (20%)
+C0542,36,M,136891,5043,6,178,Home Decor,178,6,5043,2,Win-back Offer (Free Delivery)
+C0543,49,F,103310,6630,27,176,Home Decor,176,27,6630,0,Premium Loyalty Rewards
+C0544,18,M,87278,11216,2,134,Beauty,134,2,11216,2,Win-back Offer (Free Delivery)
+C0545,22,F,38309,358,15,56,Groceries,56,15,358,0,Premium Loyalty Rewards
+C0546,62,M,20619,382,29,110,Fashion,110,29,382,0,Premium Loyalty Rewards
+C0547,21,F,103194,14037,26,157,Electronics,157,26,14037,2,Win-back Offer (Free Delivery)
+C0548,33,M,70108,1998,21,104,Beauty,104,21,1998,0,Premium Loyalty Rewards
+C0549,41,M,54707,4235,14,77,Fashion,77,14,4235,0,Premium Loyalty Rewards
+C0550,33,M,40337,6729,5,146,Sports,146,5,6729,2,Win-back Offer (Free Delivery)
+C0551,19,F,145261,11268,6,2,Home Decor,2,6,11268,1,Discount Coupon (20%)
+C0552,66,F,101537,19684,6,8,Sports,8,6,19684,1,Discount Coupon (20%)
+C0553,45,M,86504,712,22,75,Home Decor,75,22,712,0,Premium Loyalty Rewards
+C0554,49,M,67614,14303,18,125,Home Decor,125,18,14303,2,Win-back Offer (Free Delivery)
+C0555,44,F,111428,17171,14,38,Sports,38,14,17171,1,Discount Coupon (20%)
+C0556,37,F,111155,2407,10,176,Sports,176,10,2407,0,Premium Loyalty Rewards
+C0557,41,F,20281,7233,14,27,Fashion,27,14,7233,1,Discount Coupon (20%)
+C0558,29,M,47420,11305,13,20,Beauty,20,13,11305,1,Discount Coupon (20%)
+C0559,67,F,100896,6006,3,140,Beauty,140,3,6006,2,Win-back Offer (Free Delivery)
+C0560,52,M,59030,2691,6,43,Sports,43,6,2691,0,Premium Loyalty Rewards
+C0561,50,F,21058,15249,29,31,Fashion,31,29,15249,1,Discount Coupon (20%)
+C0562,50,M,106213,12250,8,91,Beauty,91,8,12250,2,Win-back Offer (Free Delivery)
+C0563,68,F,96260,7283,12,61,Fashion,61,12,7283,0,Premium Loyalty Rewards
+C0564,60,F,48404,10202,13,109,Fashion,109,13,10202,2,Win-back Offer (Free Delivery)
+C0565,54,F,123482,17153,11,91,Home Decor,91,11,17153,1,Discount Coupon (20%)
+C0566,29,F,125284,1383,12,163,Beauty,163,12,1383,0,Premium Loyalty Rewards
+C0567,20,F,49856,1023,1,95,Beauty,95,1,1023,0,Premium Loyalty Rewards
+C0568,18,M,29200,1225,17,143,Home Decor,143,17,1225,0,Premium Loyalty Rewards
+C0569,50,F,84178,1629,16,144,Sports,144,16,1629,0,Premium Loyalty Rewards
+C0570,57,F,53997,8538,11,13,Home Decor,13,11,8538,1,Discount Coupon (20%)
+C0571,27,F,45611,16254,13,113,Beauty,113,13,16254,2,Win-back Offer (Free Delivery)
+C0572,60,M,139273,8104,18,35,Beauty,35,18,8104,1,Discount Coupon (20%)
+C0573,61,F,61235,9852,11,149,Sports,149,11,9852,2,Win-back Offer (Free Delivery)
+C0574,46,M,137428,10692,28,158,Home Decor,158,28,10692,2,Win-back Offer (Free Delivery)
+C0575,30,F,55057,3964,12,48,Electronics,48,12,3964,0,Premium Loyalty Rewards
+C0576,29,F,21239,326,6,35,Electronics,35,6,326,0,Premium Loyalty Rewards
+C0577,48,M,123674,15136,9,86,Sports,86,9,15136,1,Discount Coupon (20%)
+C0578,63,F,134474,11839,16,166,Home Decor,166,16,11839,2,Win-back Offer (Free Delivery)
+C0579,19,M,85661,16748,4,159,Home Decor,159,4,16748,2,Win-back Offer (Free Delivery)
+C0580,68,M,146945,9687,3,152,Fashion,152,3,9687,2,Win-back Offer (Free Delivery)
+C0581,67,F,65272,11849,28,114,Beauty,114,28,11849,0,Premium Loyalty Rewards
+C0582,52,M,109393,745,16,177,Groceries,177,16,745,0,Premium Loyalty Rewards
+C0583,40,F,81212,16399,24,100,Sports,100,24,16399,1,Discount Coupon (20%)
+C0584,34,F,144088,19474,27,160,Groceries,160,27,19474,2,Win-back Offer (Free Delivery)
+C0585,43,M,35398,13775,26,99,Groceries,99,26,13775,1,Discount Coupon (20%)
+C0586,25,M,140030,18988,25,3,Sports,3,25,18988,1,Discount Coupon (20%)
+C0587,46,M,76503,11064,12,85,Home Decor,85,12,11064,1,Discount Coupon (20%)
+C0588,43,M,26638,16187,11,125,Sports,125,11,16187,2,Win-back Offer (Free Delivery)
+C0589,27,F,26570,13637,5,138,Groceries,138,5,13637,2,Win-back Offer (Free Delivery)
+C0590,43,F,88785,13369,25,83,Beauty,83,25,13369,1,Discount Coupon (20%)
+C0591,51,M,29110,9446,18,25,Beauty,25,18,9446,1,Discount Coupon (20%)
+C0592,68,F,125899,687,19,68,Beauty,68,19,687,0,Premium Loyalty Rewards
+C0593,58,F,99141,12863,23,61,Home Decor,61,23,12863,1,Discount Coupon (20%)
+C0594,24,F,32115,9277,23,29,Electronics,29,23,9277,1,Discount Coupon (20%)
+C0595,21,F,59062,4179,6,127,Sports,127,6,4179,0,Premium Loyalty Rewards
+C0596,67,M,42911,3448,22,19,Beauty,19,22,3448,0,Premium Loyalty Rewards
+C0597,62,M,124061,18199,18,171,Sports,171,18,18199,2,Win-back Offer (Free Delivery)
+C0598,28,F,52556,10885,26,74,Beauty,74,26,10885,1,Discount Coupon (20%)
+C0599,46,M,98131,12428,6,61,Home Decor,61,6,12428,1,Discount Coupon (20%)
+C0600,53,M,148335,6550,4,171,Electronics,171,4,6550,2,Win-back Offer (Free Delivery)
+C0601,42,M,21969,13330,12,153,Electronics,153,12,13330,2,Win-back Offer (Free Delivery)
+C0602,38,F,63753,5533,19,20,Beauty,20,19,5533,0,Premium Loyalty Rewards
+C0603,53,F,102811,1198,29,48,Home Decor,48,29,1198,0,Premium Loyalty Rewards
+C0604,27,F,24470,7196,27,87,Fashion,87,27,7196,0,Premium Loyalty Rewards
+C0605,54,M,141863,18810,29,152,Sports,152,29,18810,2,Win-back Offer (Free Delivery)
+C0606,26,F,30225,11539,2,139,Sports,139,2,11539,2,Win-back Offer (Free Delivery)
+C0607,41,F,127860,9187,17,110,Groceries,110,17,9187,0,Premium Loyalty Rewards
+C0608,52,M,143008,16121,11,28,Home Decor,28,11,16121,1,Discount Coupon (20%)
+C0609,66,F,127510,6516,11,59,Groceries,59,11,6516,0,Premium Loyalty Rewards
+C0610,52,F,128295,7080,21,133,Beauty,133,21,7080,0,Premium Loyalty Rewards
+C0611,65,M,43196,18158,16,51,Groceries,51,16,18158,1,Discount Coupon (20%)
+C0612,53,M,125823,11201,2,149,Electronics,149,2,11201,2,Win-back Offer (Free Delivery)
+C0613,35,M,33669,8050,2,12,Sports,12,2,8050,1,Discount Coupon (20%)
+C0614,66,F,57380,9222,23,50,Groceries,50,23,9222,1,Discount Coupon (20%)
+C0615,56,F,144398,12676,8,132,Electronics,132,8,12676,2,Win-back Offer (Free Delivery)
+C0616,49,F,130677,1189,13,113,Home Decor,113,13,1189,0,Premium Loyalty Rewards
+C0617,41,M,135886,4678,10,170,Groceries,170,10,4678,2,Win-back Offer (Free Delivery)
+C0618,40,M,146753,9227,8,166,Beauty,166,8,9227,2,Win-back Offer (Free Delivery)
+C0619,49,F,68320,10587,4,153,Beauty,153,4,10587,2,Win-back Offer (Free Delivery)
+C0620,54,F,67414,255,15,14,Beauty,14,15,255,0,Premium Loyalty Rewards
+C0621,29,M,123542,2058,1,32,Sports,32,1,2058,0,Premium Loyalty Rewards
+C0622,66,M,35577,10793,11,139,Groceries,139,11,10793,2,Win-back Offer (Free Delivery)
+C0623,30,M,145354,6444,7,146,Home Decor,146,7,6444,2,Win-back Offer (Free Delivery)
+C0624,40,M,108009,5879,17,155,Groceries,155,17,5879,0,Premium Loyalty Rewards
+C0625,42,F,146365,3930,27,55,Sports,55,27,3930,0,Premium Loyalty Rewards
+C0626,52,M,75409,9146,20,120,Electronics,120,20,9146,0,Premium Loyalty Rewards
+C0627,58,F,48625,9894,24,75,Sports,75,24,9894,0,Premium Loyalty Rewards
+C0628,47,F,101040,541,18,21,Beauty,21,18,541,0,Premium Loyalty Rewards
+C0629,34,F,44089,14578,22,172,Electronics,172,22,14578,2,Win-back Offer (Free Delivery)
+C0630,66,M,56487,4728,29,133,Beauty,133,29,4728,0,Premium Loyalty Rewards
+C0631,37,M,85838,6470,22,87,Fashion,87,22,6470,0,Premium Loyalty Rewards
+C0632,65,M,116999,9628,12,169,Sports,169,12,9628,2,Win-back Offer (Free Delivery)
+C0633,42,M,130448,17432,9,59,Sports,59,9,17432,1,Discount Coupon (20%)
+C0634,39,F,114795,11665,5,89,Home Decor,89,5,11665,2,Win-back Offer (Free Delivery)
+C0635,30,M,70138,8279,10,150,Groceries,150,10,8279,2,Win-back Offer (Free Delivery)
+C0636,36,M,62823,16113,4,83,Electronics,83,4,16113,1,Discount Coupon (20%)
+C0637,66,F,57208,16943,5,65,Electronics,65,5,16943,1,Discount Coupon (20%)
+C0638,53,M,74061,492,28,64,Home Decor,64,28,492,0,Premium Loyalty Rewards
+C0639,29,F,50659,12230,28,71,Home Decor,71,28,12230,1,Discount Coupon (20%)
+C0640,58,F,149824,18271,10,4,Groceries,4,10,18271,1,Discount Coupon (20%)
+C0641,36,F,121376,10549,11,143,Beauty,143,11,10549,2,Win-back Offer (Free Delivery)
+C0642,29,F,51890,17622,21,104,Groceries,104,21,17622,1,Discount Coupon (20%)
+C0643,26,F,99134,7518,24,150,Sports,150,24,7518,0,Premium Loyalty Rewards
+C0644,24,F,67055,2554,10,175,Beauty,175,10,2554,0,Premium Loyalty Rewards
+C0645,45,F,132269,17861,28,93,Fashion,93,28,17861,1,Discount Coupon (20%)
+C0646,31,F,39508,15323,8,174,Groceries,174,8,15323,2,Win-back Offer (Free Delivery)
+C0647,48,M,62287,6801,2,142,Home Decor,142,2,6801,2,Win-back Offer (Free Delivery)
+C0648,69,M,98916,2697,23,178,Beauty,178,23,2697,0,Premium Loyalty Rewards
+C0649,36,M,46984,241,8,148,Groceries,148,8,241,0,Premium Loyalty Rewards
+C0650,64,M,130169,2759,16,178,Electronics,178,16,2759,0,Premium Loyalty Rewards
+C0651,33,F,28125,9131,27,112,Fashion,112,27,9131,0,Premium Loyalty Rewards
+C0652,22,M,56059,15137,22,161,Sports,161,22,15137,2,Win-back Offer (Free Delivery)
+C0653,52,F,89569,14070,5,119,Electronics,119,5,14070,2,Win-back Offer (Free Delivery)
+C0654,29,M,123409,5761,27,59,Electronics,59,27,5761,0,Premium Loyalty Rewards
+C0655,42,M,37087,6242,25,43,Fashion,43,25,6242,0,Premium Loyalty Rewards
+C0656,69,M,126437,12209,29,12,Sports,12,29,12209,1,Discount Coupon (20%)
+C0657,38,F,135262,8887,3,40,Home Decor,40,3,8887,1,Discount Coupon (20%)
+C0658,53,M,25704,10196,12,118,Beauty,118,12,10196,2,Win-back Offer (Free Delivery)
+C0659,40,F,80576,8572,13,20,Sports,20,13,8572,1,Discount Coupon (20%)
+C0660,33,F,93384,16907,13,166,Groceries,166,13,16907,2,Win-back Offer (Free Delivery)
+C0661,56,M,107128,4349,10,131,Electronics,131,10,4349,0,Premium Loyalty Rewards
+C0662,62,M,131279,15049,4,156,Groceries,156,4,15049,2,Win-back Offer (Free Delivery)
+C0663,59,M,92460,1850,9,90,Home Decor,90,9,1850,0,Premium Loyalty Rewards
+C0664,56,F,47208,18451,22,94,Groceries,94,22,18451,1,Discount Coupon (20%)
+C0665,31,M,138516,4188,24,13,Sports,13,24,4188,0,Premium Loyalty Rewards
+C0666,48,F,149612,15382,23,66,Groceries,66,23,15382,1,Discount Coupon (20%)
+C0667,22,F,105150,19430,27,37,Home Decor,37,27,19430,1,Discount Coupon (20%)
+C0668,52,M,86024,9741,2,177,Home Decor,177,2,9741,2,Win-back Offer (Free Delivery)
+C0669,40,M,59882,5175,19,66,Home Decor,66,19,5175,0,Premium Loyalty Rewards
+C0670,46,F,45923,10512,1,36,Sports,36,1,10512,1,Discount Coupon (20%)
+C0671,60,F,146561,15786,25,26,Home Decor,26,25,15786,1,Discount Coupon (20%)
+C0672,28,F,134044,7330,29,75,Electronics,75,29,7330,0,Premium Loyalty Rewards
+C0673,35,M,121477,15532,7,108,Home Decor,108,7,15532,2,Win-back Offer (Free Delivery)
+C0674,64,F,49165,11102,17,168,Groceries,168,17,11102,2,Win-back Offer (Free Delivery)
+C0675,29,M,87203,14047,3,43,Beauty,43,3,14047,1,Discount Coupon (20%)
+C0676,26,F,111749,13786,20,150,Groceries,150,20,13786,2,Win-back Offer (Free Delivery)
+C0677,27,F,24114,18015,20,148,Beauty,148,20,18015,2,Win-back Offer (Free Delivery)
+C0678,61,M,84965,13174,21,8,Groceries,8,21,13174,1,Discount Coupon (20%)
+C0679,34,F,56321,19474,3,29,Sports,29,3,19474,1,Discount Coupon (20%)
+C0680,55,M,93297,4593,3,40,Groceries,40,3,4593,0,Premium Loyalty Rewards
+C0681,24,M,116652,17417,17,158,Sports,158,17,17417,2,Win-back Offer (Free Delivery)
+C0682,63,F,119304,1560,7,128,Sports,128,7,1560,0,Premium Loyalty Rewards
+C0683,30,M,133942,14240,27,84,Home Decor,84,27,14240,1,Discount Coupon (20%)
+C0684,57,M,45426,19207,26,116,Electronics,116,26,19207,2,Win-back Offer (Free Delivery)
+C0685,59,F,37772,10804,14,144,Beauty,144,14,10804,2,Win-back Offer (Free Delivery)
+C0686,26,M,123754,16769,17,174,Home Decor,174,17,16769,2,Win-back Offer (Free Delivery)
+C0687,67,M,23712,16748,18,62,Home Decor,62,18,16748,1,Discount Coupon (20%)
+C0688,44,M,21367,6916,13,7,Sports,7,13,6916,1,Discount Coupon (20%)
+C0689,19,F,126493,11739,20,45,Sports,45,20,11739,1,Discount Coupon (20%)
+C0690,22,M,127317,14524,29,176,Beauty,176,29,14524,2,Win-back Offer (Free Delivery)
+C0691,46,F,135142,14065,20,155,Groceries,155,20,14065,2,Win-back Offer (Free Delivery)
+C0692,54,F,111736,18246,21,88,Groceries,88,21,18246,1,Discount Coupon (20%)
+C0693,55,M,71924,11340,27,73,Home Decor,73,27,11340,1,Discount Coupon (20%)
+C0694,36,M,23726,140,18,163,Fashion,163,18,140,0,Premium Loyalty Rewards
+C0695,25,M,109152,5927,4,179,Fashion,179,4,5927,2,Win-back Offer (Free Delivery)
+C0696,65,F,47723,8359,1,37,Groceries,37,1,8359,1,Discount Coupon (20%)
+C0697,62,M,146969,17471,18,119,Fashion,119,18,17471,2,Win-back Offer (Free Delivery)
+C0698,18,M,123110,14949,1,57,Groceries,57,1,14949,1,Discount Coupon (20%)
+C0699,39,M,120494,16332,26,8,Sports,8,26,16332,1,Discount Coupon (20%)
+C0700,69,M,29108,7904,26,95,Home Decor,95,26,7904,0,Premium Loyalty Rewards
+C0701,34,M,97714,19682,13,117,Electronics,117,13,19682,2,Win-back Offer (Free Delivery)
+C0702,24,F,55643,5474,20,110,Home Decor,110,20,5474,0,Premium Loyalty Rewards
+C0703,42,F,51324,2624,20,20,Groceries,20,20,2624,0,Premium Loyalty Rewards
+C0704,62,M,123896,9377,23,124,Groceries,124,23,9377,0,Premium Loyalty Rewards
+C0705,21,M,103360,18963,10,53,Home Decor,53,10,18963,1,Discount Coupon (20%)
+C0706,53,M,130896,9985,27,119,Beauty,119,27,9985,0,Premium Loyalty Rewards
+C0707,23,M,28927,878,11,12,Groceries,12,11,878,0,Premium Loyalty Rewards
+C0708,48,F,113680,1592,9,177,Fashion,177,9,1592,0,Premium Loyalty Rewards
+C0709,36,M,116546,17144,9,17,Fashion,17,9,17144,1,Discount Coupon (20%)
+C0710,61,F,42443,17832,5,64,Groceries,64,5,17832,1,Discount Coupon (20%)
+C0711,56,F,99973,13715,26,42,Groceries,42,26,13715,1,Discount Coupon (20%)
+C0712,44,M,83449,12232,1,94,Beauty,94,1,12232,2,Win-back Offer (Free Delivery)
+C0713,27,F,129834,10278,17,157,Fashion,157,17,10278,2,Win-back Offer (Free Delivery)
+C0714,43,F,125314,7951,22,147,Groceries,147,22,7951,0,Premium Loyalty Rewards
+C0715,36,F,96743,16388,2,11,Groceries,11,2,16388,1,Discount Coupon (20%)
+C0716,56,F,141805,7256,24,98,Beauty,98,24,7256,0,Premium Loyalty Rewards
+C0717,20,M,80233,2144,13,178,Beauty,178,13,2144,0,Premium Loyalty Rewards
+C0718,62,M,45537,7468,9,71,Home Decor,71,9,7468,0,Premium Loyalty Rewards
+C0719,30,F,121293,13735,29,108,Beauty,108,29,13735,1,Discount Coupon (20%)
+C0720,67,M,97576,9268,4,58,Electronics,58,4,9268,1,Discount Coupon (20%)
+C0721,45,M,127522,17211,5,34,Fashion,34,5,17211,1,Discount Coupon (20%)
+C0722,37,M,42612,11428,11,20,Home Decor,20,11,11428,1,Discount Coupon (20%)
+C0723,45,M,113977,13419,24,50,Electronics,50,24,13419,1,Discount Coupon (20%)
+C0724,25,M,26471,442,19,102,Groceries,102,19,442,0,Premium Loyalty Rewards
+C0725,58,F,55631,1547,21,138,Groceries,138,21,1547,0,Premium Loyalty Rewards
+C0726,56,M,148449,6681,3,160,Home Decor,160,3,6681,2,Win-back Offer (Free Delivery)
+C0727,18,M,128997,11951,12,52,Beauty,52,12,11951,1,Discount Coupon (20%)
+C0728,20,M,112059,6417,26,15,Groceries,15,26,6417,0,Premium Loyalty Rewards
+C0729,30,M,51348,17010,19,84,Sports,84,19,17010,1,Discount Coupon (20%)
+C0730,45,F,84732,10188,19,131,Home Decor,131,19,10188,2,Win-back Offer (Free Delivery)
+C0731,66,F,21177,13046,13,37,Electronics,37,13,13046,1,Discount Coupon (20%)
+C0732,42,F,24760,16889,28,126,Home Decor,126,28,16889,2,Win-back Offer (Free Delivery)
+C0733,50,F,52779,14667,7,40,Fashion,40,7,14667,1,Discount Coupon (20%)
+C0734,55,M,41636,14968,15,72,Beauty,72,15,14968,1,Discount Coupon (20%)
+C0735,23,F,101889,9865,23,40,Beauty,40,23,9865,1,Discount Coupon (20%)
+C0736,61,M,73551,12566,7,56,Home Decor,56,7,12566,1,Discount Coupon (20%)
+C0737,62,M,31556,18330,26,151,Groceries,151,26,18330,2,Win-back Offer (Free Delivery)
+C0738,49,M,47598,17962,8,104,Groceries,104,8,17962,2,Win-back Offer (Free Delivery)
+C0739,62,M,31563,10687,5,139,Sports,139,5,10687,2,Win-back Offer (Free Delivery)
+C0740,64,M,66819,871,21,110,Sports,110,21,871,0,Premium Loyalty Rewards
+C0741,38,F,129326,16400,14,136,Beauty,136,14,16400,2,Win-back Offer (Free Delivery)
+C0742,33,F,93770,8870,4,93,Sports,93,4,8870,2,Win-back Offer (Free Delivery)
+C0743,38,F,111055,11193,23,94,Electronics,94,23,11193,0,Premium Loyalty Rewards
+C0744,28,F,46966,13903,10,56,Sports,56,10,13903,1,Discount Coupon (20%)
+C0745,54,M,140133,293,20,60,Electronics,60,20,293,0,Premium Loyalty Rewards
+C0746,53,F,101709,2107,15,138,Sports,138,15,2107,0,Premium Loyalty Rewards
+C0747,52,M,79889,17669,18,39,Beauty,39,18,17669,1,Discount Coupon (20%)
+C0748,36,F,46987,18878,20,28,Beauty,28,20,18878,1,Discount Coupon (20%)
+C0749,37,M,98714,11290,13,49,Electronics,49,13,11290,1,Discount Coupon (20%)
+C0750,35,M,124874,10084,29,164,Home Decor,164,29,10084,2,Win-back Offer (Free Delivery)
+C0751,64,F,78348,9402,8,125,Beauty,125,8,9402,2,Win-back Offer (Free Delivery)
+C0752,58,M,44596,7529,9,13,Home Decor,13,9,7529,1,Discount Coupon (20%)
+C0753,66,M,53174,2361,16,36,Groceries,36,16,2361,0,Premium Loyalty Rewards
+C0754,31,F,84106,6816,19,101,Electronics,101,19,6816,0,Premium Loyalty Rewards
+C0755,32,M,127510,9021,16,26,Beauty,26,16,9021,1,Discount Coupon (20%)
+C0756,48,F,89967,4478,7,86,Fashion,86,7,4478,0,Premium Loyalty Rewards
+C0757,18,F,79182,7915,14,4,Groceries,4,14,7915,1,Discount Coupon (20%)
+C0758,20,F,113300,13878,28,82,Home Decor,82,28,13878,1,Discount Coupon (20%)
+C0759,33,M,107163,19935,14,166,Beauty,166,14,19935,2,Win-back Offer (Free Delivery)
+C0760,40,M,59310,12828,25,127,Electronics,127,25,12828,2,Win-back Offer (Free Delivery)
+C0761,28,M,76088,10432,27,88,Sports,88,27,10432,0,Premium Loyalty Rewards
+C0762,29,F,148803,9936,4,127,Fashion,127,4,9936,2,Win-back Offer (Free Delivery)
+C0763,27,M,28906,2900,26,120,Home Decor,120,26,2900,0,Premium Loyalty Rewards
+C0764,49,F,56914,8433,15,22,Groceries,22,15,8433,1,Discount Coupon (20%)
+C0765,33,F,130350,5510,3,130,Electronics,130,3,5510,2,Win-back Offer (Free Delivery)
+C0766,25,M,65379,17939,5,31,Fashion,31,5,17939,1,Discount Coupon (20%)
+C0767,55,F,98612,5908,1,119,Electronics,119,1,5908,2,Win-back Offer (Free Delivery)
+C0768,29,M,134828,6896,3,11,Beauty,11,3,6896,1,Discount Coupon (20%)
+C0769,41,M,147445,10388,15,46,Sports,46,15,10388,1,Discount Coupon (20%)
+C0770,45,M,57650,17809,24,96,Groceries,96,24,17809,1,Discount Coupon (20%)
+C0771,25,M,66881,17643,27,10,Electronics,10,27,17643,1,Discount Coupon (20%)
+C0772,45,M,66413,4750,8,168,Home Decor,168,8,4750,2,Win-back Offer (Free Delivery)
+C0773,53,F,26012,5087,29,128,Beauty,128,29,5087,0,Premium Loyalty Rewards
+C0774,43,F,70115,15300,4,152,Beauty,152,4,15300,2,Win-back Offer (Free Delivery)
+C0775,25,F,27151,4797,2,99,Groceries,99,2,4797,0,Premium Loyalty Rewards
+C0776,67,M,77716,16824,29,172,Beauty,172,29,16824,2,Win-back Offer (Free Delivery)
+C0777,45,M,113747,3928,24,112,Home Decor,112,24,3928,0,Premium Loyalty Rewards
+C0778,45,M,112653,18452,24,60,Electronics,60,24,18452,1,Discount Coupon (20%)
+C0779,54,F,56378,17187,10,87,Groceries,87,10,17187,1,Discount Coupon (20%)
+C0780,58,M,62652,12705,4,145,Beauty,145,4,12705,2,Win-back Offer (Free Delivery)
+C0781,53,F,92430,5582,3,65,Beauty,65,3,5582,0,Premium Loyalty Rewards
+C0782,44,F,33467,18284,2,57,Home Decor,57,2,18284,1,Discount Coupon (20%)
+C0783,34,M,51010,5563,25,106,Sports,106,25,5563,0,Premium Loyalty Rewards
+C0784,26,M,148647,13960,17,9,Sports,9,17,13960,1,Discount Coupon (20%)
+C0785,50,F,141999,5012,23,22,Beauty,22,23,5012,0,Premium Loyalty Rewards
+C0786,37,M,134793,4748,21,141,Electronics,141,21,4748,0,Premium Loyalty Rewards
+C0787,30,F,74691,955,24,89,Groceries,89,24,955,0,Premium Loyalty Rewards
+C0788,45,M,84157,2966,20,176,Beauty,176,20,2966,0,Premium Loyalty Rewards
+C0789,65,M,128177,11934,23,18,Fashion,18,23,11934,1,Discount Coupon (20%)
+C0790,46,F,32289,16394,13,115,Groceries,115,13,16394,2,Win-back Offer (Free Delivery)
+C0791,30,M,64976,16666,5,168,Sports,168,5,16666,2,Win-back Offer (Free Delivery)
+C0792,63,F,63596,3212,21,145,Beauty,145,21,3212,0,Premium Loyalty Rewards
+C0793,52,M,43171,4592,9,143,Home Decor,143,9,4592,0,Premium Loyalty Rewards
+C0794,23,F,120441,15214,25,106,Fashion,106,25,15214,1,Discount Coupon (20%)
+C0795,35,F,146296,1617,29,15,Beauty,15,29,1617,0,Premium Loyalty Rewards
+C0796,68,M,106365,16118,25,63,Electronics,63,25,16118,1,Discount Coupon (20%)
+C0797,22,F,138218,17840,28,167,Fashion,167,28,17840,2,Win-back Offer (Free Delivery)
+C0798,64,M,119590,11531,22,13,Beauty,13,22,11531,1,Discount Coupon (20%)
+C0799,42,M,134014,8310,6,81,Electronics,81,6,8310,1,Discount Coupon (20%)
+C0800,19,M,64139,11695,5,32,Fashion,32,5,11695,1,Discount Coupon (20%)
+C0801,27,F,68713,12971,25,137,Electronics,137,25,12971,2,Win-back Offer (Free Delivery)
+C0802,47,F,49734,12843,10,40,Electronics,40,10,12843,1,Discount Coupon (20%)
+C0803,67,M,92588,9424,8,148,Fashion,148,8,9424,2,Win-back Offer (Free Delivery)
+C0804,62,M,83646,11631,7,82,Fashion,82,7,11631,1,Discount Coupon (20%)
+C0805,22,F,23654,6688,7,77,Electronics,77,7,6688,0,Premium Loyalty Rewards
+C0806,50,M,109022,3411,6,76,Sports,76,6,3411,0,Premium Loyalty Rewards
+C0807,18,M,38743,1087,21,172,Fashion,172,21,1087,0,Premium Loyalty Rewards
+C0808,35,F,68368,3421,29,38,Beauty,38,29,3421,0,Premium Loyalty Rewards
+C0809,49,M,110025,15912,20,71,Groceries,71,20,15912,1,Discount Coupon (20%)
+C0810,64,F,94172,4715,3,48,Home Decor,48,3,4715,0,Premium Loyalty Rewards
+C0811,66,M,26441,15612,19,18,Electronics,18,19,15612,1,Discount Coupon (20%)
+C0812,28,F,139735,13246,22,144,Electronics,144,22,13246,2,Win-back Offer (Free Delivery)
+C0813,38,M,44611,13754,15,39,Home Decor,39,15,13754,1,Discount Coupon (20%)
+C0814,43,M,139891,3152,4,89,Sports,89,4,3152,0,Premium Loyalty Rewards
+C0815,42,F,127971,826,28,62,Home Decor,62,28,826,0,Premium Loyalty Rewards
+C0816,39,M,32149,3860,12,141,Fashion,141,12,3860,0,Premium Loyalty Rewards
+C0817,44,F,120102,1975,6,109,Home Decor,109,6,1975,0,Premium Loyalty Rewards
+C0818,66,M,79189,14069,19,81,Electronics,81,19,14069,1,Discount Coupon (20%)
+C0819,30,F,127904,4133,4,134,Home Decor,134,4,4133,2,Win-back Offer (Free Delivery)
+C0820,50,F,41675,5543,15,77,Groceries,77,15,5543,0,Premium Loyalty Rewards
+C0821,51,F,91031,17473,9,90,Beauty,90,9,17473,1,Discount Coupon (20%)
+C0822,58,F,62668,3844,5,14,Fashion,14,5,3844,0,Premium Loyalty Rewards
+C0823,52,M,33673,17077,13,95,Home Decor,95,13,17077,1,Discount Coupon (20%)
+C0824,18,M,149582,1874,23,54,Electronics,54,23,1874,0,Premium Loyalty Rewards
+C0825,38,F,96666,10751,26,132,Beauty,132,26,10751,0,Premium Loyalty Rewards
+C0826,65,F,108204,1035,18,39,Fashion,39,18,1035,0,Premium Loyalty Rewards
+C0827,23,F,100758,13495,5,72,Electronics,72,5,13495,1,Discount Coupon (20%)
+C0828,45,M,85429,3908,25,25,Sports,25,25,3908,0,Premium Loyalty Rewards
+C0829,34,M,43669,16815,16,77,Groceries,77,16,16815,1,Discount Coupon (20%)
+C0830,22,M,54068,11741,27,160,Sports,160,27,11741,2,Win-back Offer (Free Delivery)
+C0831,48,M,108789,19186,19,166,Groceries,166,19,19186,2,Win-back Offer (Free Delivery)
+C0832,22,F,29435,14476,14,120,Home Decor,120,14,14476,2,Win-back Offer (Free Delivery)
+C0833,55,F,114088,5989,25,53,Fashion,53,25,5989,0,Premium Loyalty Rewards
+C0834,20,F,72249,5154,16,156,Home Decor,156,16,5154,0,Premium Loyalty Rewards
+C0835,40,M,57384,3968,27,131,Groceries,131,27,3968,0,Premium Loyalty Rewards
+C0836,54,M,148782,16685,15,150,Groceries,150,15,16685,2,Win-back Offer (Free Delivery)
+C0837,54,M,101929,18981,22,96,Groceries,96,22,18981,1,Discount Coupon (20%)
+C0838,27,F,147959,1942,4,166,Beauty,166,4,1942,2,Win-back Offer (Free Delivery)
+C0839,27,F,96153,10158,7,72,Electronics,72,7,10158,1,Discount Coupon (20%)
+C0840,36,M,124056,9201,16,62,Fashion,62,16,9201,1,Discount Coupon (20%)
+C0841,34,F,95388,12597,24,6,Home Decor,6,24,12597,1,Discount Coupon (20%)
+C0842,38,M,51401,4758,22,32,Home Decor,32,22,4758,0,Premium Loyalty Rewards
+C0843,31,M,145511,11481,21,99,Sports,99,21,11481,1,Discount Coupon (20%)
+C0844,26,F,91831,7644,22,138,Groceries,138,22,7644,0,Premium Loyalty Rewards
+C0845,63,M,139503,7818,21,131,Groceries,131,21,7818,0,Premium Loyalty Rewards
+C0846,18,F,135760,13951,8,76,Groceries,76,8,13951,1,Discount Coupon (20%)
+C0847,68,M,121529,17254,17,177,Home Decor,177,17,17254,2,Win-back Offer (Free Delivery)
+C0848,62,F,147834,19639,16,59,Sports,59,16,19639,1,Discount Coupon (20%)
+C0849,30,F,54084,11877,27,31,Electronics,31,27,11877,1,Discount Coupon (20%)
+C0850,21,F,140387,1728,23,93,Beauty,93,23,1728,0,Premium Loyalty Rewards
+C0851,18,M,130641,486,10,69,Fashion,69,10,486,0,Premium Loyalty Rewards
+C0852,66,M,125111,6131,10,52,Electronics,52,10,6131,0,Premium Loyalty Rewards
+C0853,57,F,75826,6539,27,89,Home Decor,89,27,6539,0,Premium Loyalty Rewards
+C0854,49,F,56451,13492,2,127,Beauty,127,2,13492,2,Win-back Offer (Free Delivery)
+C0855,51,M,27227,18950,9,169,Beauty,169,9,18950,2,Win-back Offer (Free Delivery)
+C0856,45,M,51910,2382,17,31,Beauty,31,17,2382,0,Premium Loyalty Rewards
+C0857,48,M,56041,1956,11,84,Groceries,84,11,1956,0,Premium Loyalty Rewards
+C0858,25,F,108920,15770,10,127,Fashion,127,10,15770,2,Win-back Offer (Free Delivery)
+C0859,56,M,85681,2098,22,150,Home Decor,150,22,2098,0,Premium Loyalty Rewards
+C0860,43,M,123314,5576,25,132,Home Decor,132,25,5576,0,Premium Loyalty Rewards
+C0861,51,F,101571,9528,17,13,Beauty,13,17,9528,1,Discount Coupon (20%)
+C0862,20,M,85481,4769,4,45,Home Decor,45,4,4769,0,Premium Loyalty Rewards
+C0863,67,M,88576,12436,16,127,Fashion,127,16,12436,2,Win-back Offer (Free Delivery)
+C0864,29,M,127958,9442,20,170,Fashion,170,20,9442,2,Win-back Offer (Free Delivery)
+C0865,18,F,149265,7164,15,114,Sports,114,15,7164,0,Premium Loyalty Rewards
+C0866,61,F,147556,7546,25,177,Sports,177,25,7546,0,Premium Loyalty Rewards
+C0867,22,F,84174,17915,27,20,Electronics,20,27,17915,1,Discount Coupon (20%)
+C0868,47,F,46160,5724,21,81,Fashion,81,21,5724,0,Premium Loyalty Rewards
+C0869,47,F,135170,7561,5,164,Fashion,164,5,7561,2,Win-back Offer (Free Delivery)
+C0870,34,F,137867,1919,6,129,Fashion,129,6,1919,0,Premium Loyalty Rewards
+C0871,65,F,37633,10616,17,143,Sports,143,17,10616,2,Win-back Offer (Free Delivery)
+C0872,64,M,114880,13849,1,17,Beauty,17,1,13849,1,Discount Coupon (20%)
+C0873,40,M,37014,17614,25,152,Beauty,152,25,17614,2,Win-back Offer (Free Delivery)
+C0874,32,F,100532,2758,19,58,Home Decor,58,19,2758,0,Premium Loyalty Rewards
+C0875,54,M,69104,3600,4,72,Beauty,72,4,3600,0,Premium Loyalty Rewards
+C0876,38,M,61621,2220,17,109,Groceries,109,17,2220,0,Premium Loyalty Rewards
+C0877,31,F,97231,4120,9,23,Sports,23,9,4120,0,Premium Loyalty Rewards
+C0878,19,M,88388,10313,24,174,Fashion,174,24,10313,2,Win-back Offer (Free Delivery)
+C0879,28,M,36014,3359,2,72,Beauty,72,2,3359,0,Premium Loyalty Rewards
+C0880,68,M,112578,10181,8,8,Sports,8,8,10181,1,Discount Coupon (20%)
+C0881,56,M,53755,1923,15,59,Beauty,59,15,1923,0,Premium Loyalty Rewards
+C0882,55,M,60390,17958,7,111,Electronics,111,7,17958,2,Win-back Offer (Free Delivery)
+C0883,51,F,43711,18726,27,13,Fashion,13,27,18726,1,Discount Coupon (20%)
+C0884,55,F,111658,13567,6,167,Electronics,167,6,13567,2,Win-back Offer (Free Delivery)
+C0885,67,F,77993,19727,1,156,Fashion,156,1,19727,2,Win-back Offer (Free Delivery)
+C0886,51,M,94696,7090,15,16,Sports,16,15,7090,1,Discount Coupon (20%)
+C0887,35,F,47213,3234,23,119,Home Decor,119,23,3234,0,Premium Loyalty Rewards
+C0888,47,M,135788,18554,26,2,Beauty,2,26,18554,1,Discount Coupon (20%)
+C0889,32,M,124956,16843,7,145,Beauty,145,7,16843,2,Win-back Offer (Free Delivery)
+C0890,44,M,77784,15534,29,30,Groceries,30,29,15534,1,Discount Coupon (20%)
+C0891,68,M,27421,15107,25,103,Electronics,103,25,15107,1,Discount Coupon (20%)
+C0892,51,F,106936,10333,17,13,Beauty,13,17,10333,1,Discount Coupon (20%)
+C0893,69,F,119073,16478,2,96,Sports,96,2,16478,2,Win-back Offer (Free Delivery)
+C0894,55,M,37727,1241,27,94,Home Decor,94,27,1241,0,Premium Loyalty Rewards
+C0895,50,F,132418,18119,9,82,Sports,82,9,18119,1,Discount Coupon (20%)
+C0896,41,M,24358,10235,29,13,Electronics,13,29,10235,1,Discount Coupon (20%)
+C0897,32,F,85108,13066,9,171,Groceries,171,9,13066,2,Win-back Offer (Free Delivery)
+C0898,47,F,146609,3461,13,94,Beauty,94,13,3461,0,Premium Loyalty Rewards
+C0899,59,M,114018,7935,6,149,Sports,149,6,7935,2,Win-back Offer (Free Delivery)
+C0900,68,F,144457,11272,6,112,Fashion,112,6,11272,2,Win-back Offer (Free Delivery)
+C0901,34,M,52117,16490,20,55,Home Decor,55,20,16490,1,Discount Coupon (20%)
+C0902,22,F,108700,3367,20,81,Sports,81,20,3367,0,Premium Loyalty Rewards
+C0903,46,M,51910,6664,21,168,Home Decor,168,21,6664,0,Premium Loyalty Rewards
+C0904,21,M,146888,19090,3,116,Beauty,116,3,19090,2,Win-back Offer (Free Delivery)
+C0905,27,F,118032,11511,17,143,Fashion,143,17,11511,2,Win-back Offer (Free Delivery)
+C0906,34,F,75754,6006,17,108,Groceries,108,17,6006,0,Premium Loyalty Rewards
+C0907,27,M,82438,16128,12,53,Groceries,53,12,16128,1,Discount Coupon (20%)
+C0908,34,F,129847,19757,16,128,Fashion,128,16,19757,2,Win-back Offer (Free Delivery)
+C0909,37,F,49371,7711,15,158,Home Decor,158,15,7711,2,Win-back Offer (Free Delivery)
+C0910,41,M,71501,17397,13,161,Beauty,161,13,17397,2,Win-back Offer (Free Delivery)
+C0911,22,M,80946,2111,23,57,Sports,57,23,2111,0,Premium Loyalty Rewards
+C0912,51,F,58467,17926,1,52,Fashion,52,1,17926,1,Discount Coupon (20%)
+C0913,23,M,37625,11346,17,137,Electronics,137,17,11346,2,Win-back Offer (Free Delivery)
+C0914,19,M,53893,13890,3,111,Home Decor,111,3,13890,2,Win-back Offer (Free Delivery)
+C0915,30,M,96329,11838,26,1,Groceries,1,26,11838,1,Discount Coupon (20%)
+C0916,60,F,51007,14830,15,44,Fashion,44,15,14830,1,Discount Coupon (20%)
+C0917,60,F,111302,11220,4,75,Groceries,75,4,11220,1,Discount Coupon (20%)
+C0918,65,M,59532,18313,4,98,Home Decor,98,4,18313,2,Win-back Offer (Free Delivery)
+C0919,28,F,74253,8867,18,9,Groceries,9,18,8867,1,Discount Coupon (20%)
+C0920,68,M,32323,13803,17,32,Fashion,32,17,13803,1,Discount Coupon (20%)
+C0921,64,F,131335,1029,19,15,Home Decor,15,19,1029,0,Premium Loyalty Rewards
+C0922,40,M,132356,12051,11,140,Electronics,140,11,12051,2,Win-back Offer (Free Delivery)
+C0923,33,M,130944,15945,20,136,Fashion,136,20,15945,2,Win-back Offer (Free Delivery)
+C0924,48,F,93379,17538,3,72,Sports,72,3,17538,1,Discount Coupon (20%)
+C0925,28,M,34210,15847,8,155,Beauty,155,8,15847,2,Win-back Offer (Free Delivery)
+C0926,33,F,36456,5844,14,12,Fashion,12,14,5844,1,Discount Coupon (20%)
+C0927,25,F,51367,18384,26,65,Home Decor,65,26,18384,1,Discount Coupon (20%)
+C0928,21,M,74624,9749,1,107,Beauty,107,1,9749,2,Win-back Offer (Free Delivery)
+C0929,57,M,30106,7080,14,42,Fashion,42,14,7080,1,Discount Coupon (20%)
+C0930,21,F,123493,7169,2,115,Electronics,115,2,7169,2,Win-back Offer (Free Delivery)
+C0931,42,M,88008,9691,29,139,Electronics,139,29,9691,0,Premium Loyalty Rewards
+C0932,20,M,145926,19899,23,103,Sports,103,23,19899,1,Discount Coupon (20%)
+C0933,49,M,135395,542,4,171,Groceries,171,4,542,0,Premium Loyalty Rewards
+C0934,20,M,136492,4752,24,95,Beauty,95,24,4752,0,Premium Loyalty Rewards
+C0935,44,M,92240,9470,27,17,Home Decor,17,27,9470,1,Discount Coupon (20%)
+C0936,46,F,84315,7697,29,160,Home Decor,160,29,7697,0,Premium Loyalty Rewards
+C0937,49,F,89249,14425,19,85,Groceries,85,19,14425,1,Discount Coupon (20%)
+C0938,67,M,90587,4558,6,168,Electronics,168,6,4558,2,Win-back Offer (Free Delivery)
+C0939,68,M,30756,6691,25,151,Electronics,151,25,6691,0,Premium Loyalty Rewards
+C0940,36,M,88011,16446,1,56,Fashion,56,1,16446,1,Discount Coupon (20%)
+C0941,38,F,56378,11926,17,134,Sports,134,17,11926,2,Win-back Offer (Free Delivery)
+C0942,22,M,24255,18793,8,86,Beauty,86,8,18793,1,Discount Coupon (20%)
+C0943,35,F,34484,14238,19,178,Sports,178,19,14238,2,Win-back Offer (Free Delivery)
+C0944,45,F,145703,17394,21,102,Sports,102,21,17394,1,Discount Coupon (20%)
+C0945,59,F,76549,2269,1,165,Fashion,165,1,2269,2,Win-back Offer (Free Delivery)
+C0946,39,M,54503,18656,5,54,Sports,54,5,18656,1,Discount Coupon (20%)
+C0947,38,F,144465,6413,27,177,Groceries,177,27,6413,0,Premium Loyalty Rewards
+C0948,23,M,93794,8415,16,115,Fashion,115,16,8415,0,Premium Loyalty Rewards
+C0949,18,F,145941,8136,6,139,Groceries,139,6,8136,2,Win-back Offer (Free Delivery)
+C0950,22,M,126283,885,8,88,Fashion,88,8,885,0,Premium Loyalty Rewards
+C0951,58,F,120732,6239,13,49,Sports,49,13,6239,0,Premium Loyalty Rewards
+C0952,29,M,65113,6444,16,149,Groceries,149,16,6444,0,Premium Loyalty Rewards
+C0953,43,F,125730,18900,3,115,Groceries,115,3,18900,2,Win-back Offer (Free Delivery)
+C0954,63,M,94069,15073,19,63,Groceries,63,19,15073,1,Discount Coupon (20%)
+C0955,51,M,118117,5719,12,104,Fashion,104,12,5719,0,Premium Loyalty Rewards
+C0956,66,M,25249,2036,16,83,Home Decor,83,16,2036,0,Premium Loyalty Rewards
+C0957,31,M,145654,3907,27,103,Sports,103,27,3907,0,Premium Loyalty Rewards
+C0958,43,F,139979,7251,11,156,Groceries,156,11,7251,2,Win-back Offer (Free Delivery)
+C0959,62,F,39201,9593,10,17,Beauty,17,10,9593,1,Discount Coupon (20%)
+C0960,44,M,145541,12455,25,6,Home Decor,6,25,12455,1,Discount Coupon (20%)
+C0961,26,F,78576,3336,20,147,Beauty,147,20,3336,0,Premium Loyalty Rewards
+C0962,43,M,138562,15948,4,28,Sports,28,4,15948,1,Discount Coupon (20%)
+C0963,64,M,145281,2452,12,38,Sports,38,12,2452,0,Premium Loyalty Rewards
+C0964,39,F,29686,2032,23,119,Groceries,119,23,2032,0,Premium Loyalty Rewards
+C0965,64,M,132413,11013,2,37,Groceries,37,2,11013,1,Discount Coupon (20%)
+C0966,47,M,73363,8656,24,115,Fashion,115,24,8656,0,Premium Loyalty Rewards
+C0967,60,F,117543,5598,22,68,Home Decor,68,22,5598,0,Premium Loyalty Rewards
+C0968,65,M,20661,10682,19,177,Home Decor,177,19,10682,2,Win-back Offer (Free Delivery)
+C0969,34,M,64843,17430,25,43,Groceries,43,25,17430,1,Discount Coupon (20%)
+C0970,43,M,115673,13965,5,164,Sports,164,5,13965,2,Win-back Offer (Free Delivery)
+C0971,53,M,80963,9669,8,58,Groceries,58,8,9669,1,Discount Coupon (20%)
+C0972,18,F,133092,17923,7,13,Sports,13,7,17923,1,Discount Coupon (20%)
+C0973,25,F,62828,4957,14,52,Sports,52,14,4957,0,Premium Loyalty Rewards
+C0974,66,F,68604,440,24,58,Groceries,58,24,440,0,Premium Loyalty Rewards
+C0975,52,M,30526,11281,23,32,Electronics,32,23,11281,1,Discount Coupon (20%)
+C0976,69,M,88910,16866,3,105,Home Decor,105,3,16866,2,Win-back Offer (Free Delivery)
+C0977,32,F,45592,8591,18,83,Beauty,83,18,8591,0,Premium Loyalty Rewards
+C0978,64,M,48982,238,16,99,Sports,99,16,238,0,Premium Loyalty Rewards
+C0979,39,M,20207,458,23,104,Sports,104,23,458,0,Premium Loyalty Rewards
+C0980,31,M,120969,9814,19,28,Electronics,28,19,9814,1,Discount Coupon (20%)
+C0981,43,M,137181,19940,19,129,Beauty,129,19,19940,2,Win-back Offer (Free Delivery)
+C0982,45,F,108733,1727,18,170,Fashion,170,18,1727,0,Premium Loyalty Rewards
+C0983,40,F,118936,16096,20,48,Electronics,48,20,16096,1,Discount Coupon (20%)
+C0984,31,F,144982,5104,16,40,Beauty,40,16,5104,0,Premium Loyalty Rewards
+C0985,41,M,145839,13383,8,97,Electronics,97,8,13383,2,Win-back Offer (Free Delivery)
+C0986,19,F,88619,6752,28,114,Sports,114,28,6752,0,Premium Loyalty Rewards
+C0987,62,F,49328,19654,1,132,Home Decor,132,1,19654,2,Win-back Offer (Free Delivery)
+C0988,43,M,66479,2251,17,166,Electronics,166,17,2251,0,Premium Loyalty Rewards
+C0989,31,M,128427,9529,12,155,Fashion,155,12,9529,2,Win-back Offer (Free Delivery)
+C0990,68,F,40103,14172,21,137,Groceries,137,21,14172,2,Win-back Offer (Free Delivery)
+C0991,24,F,59891,12027,11,111,Beauty,111,11,12027,2,Win-back Offer (Free Delivery)
+C0992,20,F,30754,7005,5,144,Electronics,144,5,7005,2,Win-back Offer (Free Delivery)
+C0993,64,F,119983,19318,27,76,Electronics,76,27,19318,1,Discount Coupon (20%)
+C0994,40,M,101437,12552,12,31,Fashion,31,12,12552,1,Discount Coupon (20%)
+C0995,63,F,118540,16312,17,119,Home Decor,119,17,16312,2,Win-back Offer (Free Delivery)
+C0996,60,F,92982,19051,6,142,Electronics,142,6,19051,2,Win-back Offer (Free Delivery)
+C0997,64,M,122747,1407,1,25,Electronics,25,1,1407,0,Premium Loyalty Rewards
+C0998,62,F,75922,14952,5,34,Home Decor,34,5,14952,1,Discount Coupon (20%)
+C0999,35,M,68231,2760,25,67,Fashion,67,25,2760,0,Premium Loyalty Rewards
+C1000,55,M,49301,10503,28,152,Beauty,152,28,10503,2,Win-back Offer (Free Delivery)
